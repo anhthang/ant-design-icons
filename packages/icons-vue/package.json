@@ -1,12 +1,12 @@
 {
-  "name": "@ant-design/icons-vue",
-  "version": "7.0.1",
+  "name": "@buianhthang/icons-vue",
+  "version": "7.1.0",
   "main": "./lib/index.js",
   "module": "./es/index.js",
   "sideEffects": false,
   "repository": {
     "type": "git",
-    "url": "https://github.com/ant-design/ant-design-icons/tree/master/packages/icons-vue"
+    "url": "git+https://github.com/anhthang/ant-design-icons.git#master"
   },
   "contributors": [
     "tangjinzhou <415800467@qq.com>"
@@ -70,8 +70,8 @@
     "vue-jest": "^5.0.0-alpha.10"
   },
   "dependencies": {
-    "@ant-design/colors": "^6.0.0",
-    "@ant-design/icons-svg": "^4.2.1"
+    "@ant-design/colors": "^7.0.0",
+    "@ant-design/icons-svg": "^4.4.0"
   },
   "config": {
     "port": 9528,
@@ -81,5 +81,16 @@
       ]
     }
   },
-  "description": "Ant Design Icons for Vue"
+  "description": "Forked Ant Design Icons for Vue",
+  "types": "./lib/index.d.ts",
+  "bugs": {
+    "url": "https://github.com/anhthang/ant-design-icons/issues"
+  },
+  "homepage": "https://github.com/anhthang/ant-design-icons/tree/master#readme",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "test"
+  },
+  "author": ""
 }
