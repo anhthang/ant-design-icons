@@ -1,6 +1,6 @@
 {
   "name": "@buianhthang/icons-vue",
-  "version": "7.1.0",
+  "version": "7.1.2",
   "main": "./lib/index.js",
   "module": "./es/index.js",
   "sideEffects": false,
