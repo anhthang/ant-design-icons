@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CreditCardFilledSvg from '@ant-design/icons-svg/lib/asn/CreditCardFilled';
+import CreditCardFilledSvg from '@buianhthang/icons-svg/lib/asn/CreditCardFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CreditCardFilledIconType extends FunctionalComponent<AntdIconProps> {

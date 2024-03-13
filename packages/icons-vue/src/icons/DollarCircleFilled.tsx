@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DollarCircleFilledSvg from '@ant-design/icons-svg/lib/asn/DollarCircleFilled';
+import DollarCircleFilledSvg from '@buianhthang/icons-svg/lib/asn/DollarCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DollarCircleFilledIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import UsbOutlinedSvg from '@ant-design/icons-svg/lib/asn/UsbOutlined';
+import UsbOutlinedSvg from '@buianhthang/icons-svg/lib/asn/UsbOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface UsbOutlinedIconType extends FunctionalComponent<AntdIconProps> {

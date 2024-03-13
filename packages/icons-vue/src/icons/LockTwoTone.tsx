@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import LockTwoToneSvg from '@ant-design/icons-svg/lib/asn/LockTwoTone';
+import LockTwoToneSvg from '@buianhthang/icons-svg/lib/asn/LockTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface LockTwoToneIconType extends FunctionalComponent<AntdIconProps> {

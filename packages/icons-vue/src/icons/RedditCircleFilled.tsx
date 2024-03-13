@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import RedditCircleFilledSvg from '@ant-design/icons-svg/lib/asn/RedditCircleFilled';
+import RedditCircleFilledSvg from '@buianhthang/icons-svg/lib/asn/RedditCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface RedditCircleFilledIconType extends FunctionalComponent<AntdIconProps> {

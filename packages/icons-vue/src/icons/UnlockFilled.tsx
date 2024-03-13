@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import UnlockFilledSvg from '@ant-design/icons-svg/lib/asn/UnlockFilled';
+import UnlockFilledSvg from '@buianhthang/icons-svg/lib/asn/UnlockFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface UnlockFilledIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ArrowDownOutlinedSvg from '@ant-design/icons-svg/lib/asn/ArrowDownOutlined';
+import ArrowDownOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ArrowDownOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ArrowDownOutlinedIconType extends FunctionalComponent<AntdIconProps> {

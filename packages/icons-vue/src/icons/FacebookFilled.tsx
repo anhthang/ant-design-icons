@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FacebookFilledSvg from '@ant-design/icons-svg/lib/asn/FacebookFilled';
+import FacebookFilledSvg from '@buianhthang/icons-svg/lib/asn/FacebookFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FacebookFilledIconType extends FunctionalComponent<AntdIconProps> {

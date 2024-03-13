@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SecurityScanFilledSvg from '@ant-design/icons-svg/lib/asn/SecurityScanFilled';
+import SecurityScanFilledSvg from '@buianhthang/icons-svg/lib/asn/SecurityScanFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SecurityScanFilledIconType extends FunctionalComponent<AntdIconProps> {

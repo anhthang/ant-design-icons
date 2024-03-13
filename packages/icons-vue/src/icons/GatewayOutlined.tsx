@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import GatewayOutlinedSvg from '@ant-design/icons-svg/lib/asn/GatewayOutlined';
+import GatewayOutlinedSvg from '@buianhthang/icons-svg/lib/asn/GatewayOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface GatewayOutlinedIconType extends FunctionalComponent<AntdIconProps> {

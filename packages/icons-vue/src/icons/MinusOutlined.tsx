@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MinusOutlinedSvg from '@ant-design/icons-svg/lib/asn/MinusOutlined';
+import MinusOutlinedSvg from '@buianhthang/icons-svg/lib/asn/MinusOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MinusOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import StarOutlinedSvg from '@ant-design/icons-svg/lib/asn/StarOutlined';
+import StarOutlinedSvg from '@buianhthang/icons-svg/lib/asn/StarOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface StarOutlinedIconType extends FunctionalComponent<AntdIconProps> {

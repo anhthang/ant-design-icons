@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import LoadingOutlinedSvg from '@ant-design/icons-svg/lib/asn/LoadingOutlined';
+import LoadingOutlinedSvg from '@buianhthang/icons-svg/lib/asn/LoadingOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface LoadingOutlinedIconType extends FunctionalComponent<AntdIconProps> {

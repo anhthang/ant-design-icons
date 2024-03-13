@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import StepBackwardOutlinedSvg from '@ant-design/icons-svg/lib/asn/StepBackwardOutlined';
+import StepBackwardOutlinedSvg from '@buianhthang/icons-svg/lib/asn/StepBackwardOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface StepBackwardOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import PoundOutlinedSvg from '@ant-design/icons-svg/lib/asn/PoundOutlined';
+import PoundOutlinedSvg from '@buianhthang/icons-svg/lib/asn/PoundOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface PoundOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import HourglassTwoToneSvg from '@ant-design/icons-svg/lib/asn/HourglassTwoTone';
+import HourglassTwoToneSvg from '@buianhthang/icons-svg/lib/asn/HourglassTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface HourglassTwoToneIconType extends FunctionalComponent<AntdIconProps> {

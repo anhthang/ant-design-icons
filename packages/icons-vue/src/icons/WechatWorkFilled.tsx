@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import WechatWorkFilledSvg from '@ant-design/icons-svg/lib/asn/WechatWorkFilled';
+import WechatWorkFilledSvg from '@buianhthang/icons-svg/lib/asn/WechatWorkFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface WechatWorkFilledIconType extends FunctionalComponent<AntdIconProps> {

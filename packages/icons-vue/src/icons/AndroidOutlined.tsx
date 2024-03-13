@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import AndroidOutlinedSvg from '@ant-design/icons-svg/lib/asn/AndroidOutlined';
+import AndroidOutlinedSvg from '@buianhthang/icons-svg/lib/asn/AndroidOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface AndroidOutlinedIconType extends FunctionalComponent<AntdIconProps> {

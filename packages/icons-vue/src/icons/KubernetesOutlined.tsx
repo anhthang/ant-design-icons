@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import KubernetesOutlinedSvg from '@ant-design/icons-svg/lib/asn/KubernetesOutlined';
+import KubernetesOutlinedSvg from '@buianhthang/icons-svg/lib/asn/KubernetesOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface KubernetesOutlinedIconType extends FunctionalComponent<AntdIconProps> {

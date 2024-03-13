@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BellFilledSvg from '@ant-design/icons-svg/lib/asn/BellFilled';
+import BellFilledSvg from '@buianhthang/icons-svg/lib/asn/BellFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BellFilledIconType extends FunctionalComponent<AntdIconProps> {

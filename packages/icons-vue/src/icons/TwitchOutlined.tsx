@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import TwitchOutlinedSvg from '@ant-design/icons-svg/lib/asn/TwitchOutlined';
+import TwitchOutlinedSvg from '@buianhthang/icons-svg/lib/asn/TwitchOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface TwitchOutlinedIconType extends FunctionalComponent<AntdIconProps> {

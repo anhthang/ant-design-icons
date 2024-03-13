@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SlidersTwoToneSvg from '@ant-design/icons-svg/lib/asn/SlidersTwoTone';
+import SlidersTwoToneSvg from '@buianhthang/icons-svg/lib/asn/SlidersTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SlidersTwoToneIconType extends FunctionalComponent<AntdIconProps> {

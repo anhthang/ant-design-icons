@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DashboardOutlinedSvg from '@ant-design/icons-svg/lib/asn/DashboardOutlined';
+import DashboardOutlinedSvg from '@buianhthang/icons-svg/lib/asn/DashboardOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DashboardOutlinedIconType extends FunctionalComponent<AntdIconProps> {

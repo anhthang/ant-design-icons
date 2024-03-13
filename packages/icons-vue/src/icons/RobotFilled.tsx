@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import RobotFilledSvg from '@ant-design/icons-svg/lib/asn/RobotFilled';
+import RobotFilledSvg from '@buianhthang/icons-svg/lib/asn/RobotFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface RobotFilledIconType extends FunctionalComponent<AntdIconProps> {

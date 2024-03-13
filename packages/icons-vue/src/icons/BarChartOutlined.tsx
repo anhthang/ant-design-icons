@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BarChartOutlinedSvg from '@ant-design/icons-svg/lib/asn/BarChartOutlined';
+import BarChartOutlinedSvg from '@buianhthang/icons-svg/lib/asn/BarChartOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BarChartOutlinedIconType extends FunctionalComponent<AntdIconProps> {

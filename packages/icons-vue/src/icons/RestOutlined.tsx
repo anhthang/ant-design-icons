@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import RestOutlinedSvg from '@ant-design/icons-svg/lib/asn/RestOutlined';
+import RestOutlinedSvg from '@buianhthang/icons-svg/lib/asn/RestOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface RestOutlinedIconType extends FunctionalComponent<AntdIconProps> {

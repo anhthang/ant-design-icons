@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import PieChartFilledSvg from '@ant-design/icons-svg/lib/asn/PieChartFilled';
+import PieChartFilledSvg from '@buianhthang/icons-svg/lib/asn/PieChartFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface PieChartFilledIconType extends FunctionalComponent<AntdIconProps> {

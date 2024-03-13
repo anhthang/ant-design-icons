@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import EuroTwoToneSvg from '@ant-design/icons-svg/lib/asn/EuroTwoTone';
+import EuroTwoToneSvg from '@buianhthang/icons-svg/lib/asn/EuroTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface EuroTwoToneIconType extends FunctionalComponent<AntdIconProps> {

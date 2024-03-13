@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import RightSquareOutlinedSvg from '@ant-design/icons-svg/lib/asn/RightSquareOutlined';
+import RightSquareOutlinedSvg from '@buianhthang/icons-svg/lib/asn/RightSquareOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface RightSquareOutlinedIconType extends FunctionalComponent<AntdIconProps> {

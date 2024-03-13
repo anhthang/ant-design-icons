@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import RadiusBottomleftOutlinedSvg from '@ant-design/icons-svg/lib/asn/RadiusBottomleftOutlined';
+import RadiusBottomleftOutlinedSvg from '@buianhthang/icons-svg/lib/asn/RadiusBottomleftOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface RadiusBottomleftOutlinedIconType extends FunctionalComponent<AntdIconProps> {

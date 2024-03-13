@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import WalletOutlinedSvg from '@ant-design/icons-svg/lib/asn/WalletOutlined';
+import WalletOutlinedSvg from '@buianhthang/icons-svg/lib/asn/WalletOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface WalletOutlinedIconType extends FunctionalComponent<AntdIconProps> {

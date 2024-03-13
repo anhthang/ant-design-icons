@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CameraFilledSvg from '@ant-design/icons-svg/lib/asn/CameraFilled';
+import CameraFilledSvg from '@buianhthang/icons-svg/lib/asn/CameraFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CameraFilledIconType extends FunctionalComponent<AntdIconProps> {

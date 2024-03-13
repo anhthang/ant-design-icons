@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ScanOutlinedSvg from '@ant-design/icons-svg/lib/asn/ScanOutlined';
+import ScanOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ScanOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ScanOutlinedIconType extends FunctionalComponent<AntdIconProps> {

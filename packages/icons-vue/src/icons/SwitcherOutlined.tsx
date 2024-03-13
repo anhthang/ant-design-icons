@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SwitcherOutlinedSvg from '@ant-design/icons-svg/lib/asn/SwitcherOutlined';
+import SwitcherOutlinedSvg from '@buianhthang/icons-svg/lib/asn/SwitcherOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SwitcherOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import AppstoreAddOutlinedSvg from '@ant-design/icons-svg/lib/asn/AppstoreAddOutlined';
+import AppstoreAddOutlinedSvg from '@buianhthang/icons-svg/lib/asn/AppstoreAddOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface AppstoreAddOutlinedIconType extends FunctionalComponent<AntdIconProps> {

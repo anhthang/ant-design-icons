@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SketchCircleFilledSvg from '@ant-design/icons-svg/lib/asn/SketchCircleFilled';
+import SketchCircleFilledSvg from '@buianhthang/icons-svg/lib/asn/SketchCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SketchCircleFilledIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CodepenCircleFilledSvg from '@ant-design/icons-svg/lib/asn/CodepenCircleFilled';
+import CodepenCircleFilledSvg from '@buianhthang/icons-svg/lib/asn/CodepenCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CodepenCircleFilledIconType extends FunctionalComponent<AntdIconProps> {

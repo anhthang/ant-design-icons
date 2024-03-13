@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FileTextTwoToneSvg from '@ant-design/icons-svg/lib/asn/FileTextTwoTone';
+import FileTextTwoToneSvg from '@buianhthang/icons-svg/lib/asn/FileTextTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FileTextTwoToneIconType extends FunctionalComponent<AntdIconProps> {

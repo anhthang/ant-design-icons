@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DotChartOutlinedSvg from '@ant-design/icons-svg/lib/asn/DotChartOutlined';
+import DotChartOutlinedSvg from '@buianhthang/icons-svg/lib/asn/DotChartOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DotChartOutlinedIconType extends FunctionalComponent<AntdIconProps> {

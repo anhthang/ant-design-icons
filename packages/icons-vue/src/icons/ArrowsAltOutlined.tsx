@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ArrowsAltOutlinedSvg from '@ant-design/icons-svg/lib/asn/ArrowsAltOutlined';
+import ArrowsAltOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ArrowsAltOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ArrowsAltOutlinedIconType extends FunctionalComponent<AntdIconProps> {

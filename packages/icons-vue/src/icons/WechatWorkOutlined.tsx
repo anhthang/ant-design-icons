@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import WechatWorkOutlinedSvg from '@ant-design/icons-svg/lib/asn/WechatWorkOutlined';
+import WechatWorkOutlinedSvg from '@buianhthang/icons-svg/lib/asn/WechatWorkOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface WechatWorkOutlinedIconType extends FunctionalComponent<AntdIconProps> {

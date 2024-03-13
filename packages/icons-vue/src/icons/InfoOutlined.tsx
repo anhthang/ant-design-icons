@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import InfoOutlinedSvg from '@ant-design/icons-svg/lib/asn/InfoOutlined';
+import InfoOutlinedSvg from '@buianhthang/icons-svg/lib/asn/InfoOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface InfoOutlinedIconType extends FunctionalComponent<AntdIconProps> {

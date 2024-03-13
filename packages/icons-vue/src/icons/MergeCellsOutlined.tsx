@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MergeCellsOutlinedSvg from '@ant-design/icons-svg/lib/asn/MergeCellsOutlined';
+import MergeCellsOutlinedSvg from '@buianhthang/icons-svg/lib/asn/MergeCellsOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MergeCellsOutlinedIconType extends FunctionalComponent<AntdIconProps> {

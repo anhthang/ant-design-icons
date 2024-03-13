@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import TrophyOutlinedSvg from '@ant-design/icons-svg/lib/asn/TrophyOutlined';
+import TrophyOutlinedSvg from '@buianhthang/icons-svg/lib/asn/TrophyOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface TrophyOutlinedIconType extends FunctionalComponent<AntdIconProps> {

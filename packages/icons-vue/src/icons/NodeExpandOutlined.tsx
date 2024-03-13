@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import NodeExpandOutlinedSvg from '@ant-design/icons-svg/lib/asn/NodeExpandOutlined';
+import NodeExpandOutlinedSvg from '@buianhthang/icons-svg/lib/asn/NodeExpandOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface NodeExpandOutlinedIconType extends FunctionalComponent<AntdIconProps> {

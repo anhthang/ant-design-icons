@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ExperimentOutlinedSvg from '@ant-design/icons-svg/lib/asn/ExperimentOutlined';
+import ExperimentOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ExperimentOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ExperimentOutlinedIconType extends FunctionalComponent<AntdIconProps> {

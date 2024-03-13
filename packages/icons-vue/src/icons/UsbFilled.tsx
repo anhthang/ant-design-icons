@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import UsbFilledSvg from '@ant-design/icons-svg/lib/asn/UsbFilled';
+import UsbFilledSvg from '@buianhthang/icons-svg/lib/asn/UsbFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface UsbFilledIconType extends FunctionalComponent<AntdIconProps> {

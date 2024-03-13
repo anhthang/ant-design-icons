@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FacebookOutlinedSvg from '@ant-design/icons-svg/lib/asn/FacebookOutlined';
+import FacebookOutlinedSvg from '@buianhthang/icons-svg/lib/asn/FacebookOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FacebookOutlinedIconType extends FunctionalComponent<AntdIconProps> {

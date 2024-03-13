@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import RobotOutlinedSvg from '@ant-design/icons-svg/lib/asn/RobotOutlined';
+import RobotOutlinedSvg from '@buianhthang/icons-svg/lib/asn/RobotOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface RobotOutlinedIconType extends FunctionalComponent<AntdIconProps> {

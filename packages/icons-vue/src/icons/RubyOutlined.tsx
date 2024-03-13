@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import RubyOutlinedSvg from '@ant-design/icons-svg/lib/asn/RubyOutlined';
+import RubyOutlinedSvg from '@buianhthang/icons-svg/lib/asn/RubyOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface RubyOutlinedIconType extends FunctionalComponent<AntdIconProps> {

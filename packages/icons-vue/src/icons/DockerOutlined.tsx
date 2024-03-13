@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DockerOutlinedSvg from '@ant-design/icons-svg/lib/asn/DockerOutlined';
+import DockerOutlinedSvg from '@buianhthang/icons-svg/lib/asn/DockerOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DockerOutlinedIconType extends FunctionalComponent<AntdIconProps> {

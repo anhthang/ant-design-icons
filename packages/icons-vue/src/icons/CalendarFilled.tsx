@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CalendarFilledSvg from '@ant-design/icons-svg/lib/asn/CalendarFilled';
+import CalendarFilledSvg from '@buianhthang/icons-svg/lib/asn/CalendarFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CalendarFilledIconType extends FunctionalComponent<AntdIconProps> {

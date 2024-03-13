@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MailOutlinedSvg from '@ant-design/icons-svg/lib/asn/MailOutlined';
+import MailOutlinedSvg from '@buianhthang/icons-svg/lib/asn/MailOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MailOutlinedIconType extends FunctionalComponent<AntdIconProps> {

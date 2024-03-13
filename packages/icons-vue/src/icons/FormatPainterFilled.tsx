@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FormatPainterFilledSvg from '@ant-design/icons-svg/lib/asn/FormatPainterFilled';
+import FormatPainterFilledSvg from '@buianhthang/icons-svg/lib/asn/FormatPainterFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FormatPainterFilledIconType extends FunctionalComponent<AntdIconProps> {

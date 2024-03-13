@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CoffeeOutlinedSvg from '@ant-design/icons-svg/lib/asn/CoffeeOutlined';
+import CoffeeOutlinedSvg from '@buianhthang/icons-svg/lib/asn/CoffeeOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CoffeeOutlinedIconType extends FunctionalComponent<AntdIconProps> {

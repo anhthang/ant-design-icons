@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ApiFilledSvg from '@ant-design/icons-svg/lib/asn/ApiFilled';
+import ApiFilledSvg from '@buianhthang/icons-svg/lib/asn/ApiFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ApiFilledIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CrownTwoToneSvg from '@ant-design/icons-svg/lib/asn/CrownTwoTone';
+import CrownTwoToneSvg from '@buianhthang/icons-svg/lib/asn/CrownTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CrownTwoToneIconType extends FunctionalComponent<AntdIconProps> {

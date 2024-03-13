@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CompassOutlinedSvg from '@ant-design/icons-svg/lib/asn/CompassOutlined';
+import CompassOutlinedSvg from '@buianhthang/icons-svg/lib/asn/CompassOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CompassOutlinedIconType extends FunctionalComponent<AntdIconProps> {

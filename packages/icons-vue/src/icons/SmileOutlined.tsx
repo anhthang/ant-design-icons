@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SmileOutlinedSvg from '@ant-design/icons-svg/lib/asn/SmileOutlined';
+import SmileOutlinedSvg from '@buianhthang/icons-svg/lib/asn/SmileOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SmileOutlinedIconType extends FunctionalComponent<AntdIconProps> {

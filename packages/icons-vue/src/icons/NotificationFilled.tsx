@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import NotificationFilledSvg from '@ant-design/icons-svg/lib/asn/NotificationFilled';
+import NotificationFilledSvg from '@buianhthang/icons-svg/lib/asn/NotificationFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface NotificationFilledIconType extends FunctionalComponent<AntdIconProps> {

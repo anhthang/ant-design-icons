@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DownSquareOutlinedSvg from '@ant-design/icons-svg/lib/asn/DownSquareOutlined';
+import DownSquareOutlinedSvg from '@buianhthang/icons-svg/lib/asn/DownSquareOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DownSquareOutlinedIconType extends FunctionalComponent<AntdIconProps> {

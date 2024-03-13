@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import WarningTwoToneSvg from '@ant-design/icons-svg/lib/asn/WarningTwoTone';
+import WarningTwoToneSvg from '@buianhthang/icons-svg/lib/asn/WarningTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface WarningTwoToneIconType extends FunctionalComponent<AntdIconProps> {

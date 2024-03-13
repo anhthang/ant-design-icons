@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MoonOutlinedSvg from '@ant-design/icons-svg/lib/asn/MoonOutlined';
+import MoonOutlinedSvg from '@buianhthang/icons-svg/lib/asn/MoonOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MoonOutlinedIconType extends FunctionalComponent<AntdIconProps> {

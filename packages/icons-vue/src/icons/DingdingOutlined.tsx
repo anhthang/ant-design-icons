@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DingdingOutlinedSvg from '@ant-design/icons-svg/lib/asn/DingdingOutlined';
+import DingdingOutlinedSvg from '@buianhthang/icons-svg/lib/asn/DingdingOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DingdingOutlinedIconType extends FunctionalComponent<AntdIconProps> {

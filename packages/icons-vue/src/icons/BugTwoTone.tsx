@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BugTwoToneSvg from '@ant-design/icons-svg/lib/asn/BugTwoTone';
+import BugTwoToneSvg from '@buianhthang/icons-svg/lib/asn/BugTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BugTwoToneIconType extends FunctionalComponent<AntdIconProps> {

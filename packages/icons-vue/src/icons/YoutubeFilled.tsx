@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import YoutubeFilledSvg from '@ant-design/icons-svg/lib/asn/YoutubeFilled';
+import YoutubeFilledSvg from '@buianhthang/icons-svg/lib/asn/YoutubeFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface YoutubeFilledIconType extends FunctionalComponent<AntdIconProps> {

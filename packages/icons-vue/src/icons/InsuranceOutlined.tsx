@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import InsuranceOutlinedSvg from '@ant-design/icons-svg/lib/asn/InsuranceOutlined';
+import InsuranceOutlinedSvg from '@buianhthang/icons-svg/lib/asn/InsuranceOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface InsuranceOutlinedIconType extends FunctionalComponent<AntdIconProps> {

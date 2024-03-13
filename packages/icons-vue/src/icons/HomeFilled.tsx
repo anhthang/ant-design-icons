@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import HomeFilledSvg from '@ant-design/icons-svg/lib/asn/HomeFilled';
+import HomeFilledSvg from '@buianhthang/icons-svg/lib/asn/HomeFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface HomeFilledIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import QrcodeOutlinedSvg from '@ant-design/icons-svg/lib/asn/QrcodeOutlined';
+import QrcodeOutlinedSvg from '@buianhthang/icons-svg/lib/asn/QrcodeOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface QrcodeOutlinedIconType extends FunctionalComponent<AntdIconProps> {

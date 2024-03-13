@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CaretUpOutlinedSvg from '@ant-design/icons-svg/lib/asn/CaretUpOutlined';
+import CaretUpOutlinedSvg from '@buianhthang/icons-svg/lib/asn/CaretUpOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CaretUpOutlinedIconType extends FunctionalComponent<AntdIconProps> {

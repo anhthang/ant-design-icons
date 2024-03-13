@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import AliwangwangOutlinedSvg from '@ant-design/icons-svg/lib/asn/AliwangwangOutlined';
+import AliwangwangOutlinedSvg from '@buianhthang/icons-svg/lib/asn/AliwangwangOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface AliwangwangOutlinedIconType extends FunctionalComponent<AntdIconProps> {

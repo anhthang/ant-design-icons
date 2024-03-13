@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ReconciliationOutlinedSvg from '@ant-design/icons-svg/lib/asn/ReconciliationOutlined';
+import ReconciliationOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ReconciliationOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ReconciliationOutlinedIconType extends FunctionalComponent<AntdIconProps> {

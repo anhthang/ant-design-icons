@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FileMarkdownOutlinedSvg from '@ant-design/icons-svg/lib/asn/FileMarkdownOutlined';
+import FileMarkdownOutlinedSvg from '@buianhthang/icons-svg/lib/asn/FileMarkdownOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FileMarkdownOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import TwitchFilledSvg from '@ant-design/icons-svg/lib/asn/TwitchFilled';
+import TwitchFilledSvg from '@buianhthang/icons-svg/lib/asn/TwitchFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface TwitchFilledIconType extends FunctionalComponent<AntdIconProps> {

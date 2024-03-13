@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import PauseCircleOutlinedSvg from '@ant-design/icons-svg/lib/asn/PauseCircleOutlined';
+import PauseCircleOutlinedSvg from '@buianhthang/icons-svg/lib/asn/PauseCircleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface PauseCircleOutlinedIconType extends FunctionalComponent<AntdIconProps> {

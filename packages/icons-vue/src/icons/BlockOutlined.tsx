@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BlockOutlinedSvg from '@ant-design/icons-svg/lib/asn/BlockOutlined';
+import BlockOutlinedSvg from '@buianhthang/icons-svg/lib/asn/BlockOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BlockOutlinedIconType extends FunctionalComponent<AntdIconProps> {

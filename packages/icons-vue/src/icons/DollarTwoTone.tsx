@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DollarTwoToneSvg from '@ant-design/icons-svg/lib/asn/DollarTwoTone';
+import DollarTwoToneSvg from '@buianhthang/icons-svg/lib/asn/DollarTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DollarTwoToneIconType extends FunctionalComponent<AntdIconProps> {

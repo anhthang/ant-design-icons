@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FundProjectionScreenOutlinedSvg from '@ant-design/icons-svg/lib/asn/FundProjectionScreenOutlined';
+import FundProjectionScreenOutlinedSvg from '@buianhthang/icons-svg/lib/asn/FundProjectionScreenOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FundProjectionScreenOutlinedIconType extends FunctionalComponent<AntdIconProps> {

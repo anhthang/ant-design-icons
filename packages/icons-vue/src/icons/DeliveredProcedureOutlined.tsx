@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DeliveredProcedureOutlinedSvg from '@ant-design/icons-svg/lib/asn/DeliveredProcedureOutlined';
+import DeliveredProcedureOutlinedSvg from '@buianhthang/icons-svg/lib/asn/DeliveredProcedureOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DeliveredProcedureOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FullscreenOutlinedSvg from '@ant-design/icons-svg/lib/asn/FullscreenOutlined';
+import FullscreenOutlinedSvg from '@buianhthang/icons-svg/lib/asn/FullscreenOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FullscreenOutlinedIconType extends FunctionalComponent<AntdIconProps> {

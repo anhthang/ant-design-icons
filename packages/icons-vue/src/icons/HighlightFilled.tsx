@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import HighlightFilledSvg from '@ant-design/icons-svg/lib/asn/HighlightFilled';
+import HighlightFilledSvg from '@buianhthang/icons-svg/lib/asn/HighlightFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface HighlightFilledIconType extends FunctionalComponent<AntdIconProps> {

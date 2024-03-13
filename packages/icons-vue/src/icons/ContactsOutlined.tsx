@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ContactsOutlinedSvg from '@ant-design/icons-svg/lib/asn/ContactsOutlined';
+import ContactsOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ContactsOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ContactsOutlinedIconType extends FunctionalComponent<AntdIconProps> {

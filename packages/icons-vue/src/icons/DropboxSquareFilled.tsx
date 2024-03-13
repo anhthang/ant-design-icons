@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DropboxSquareFilledSvg from '@ant-design/icons-svg/lib/asn/DropboxSquareFilled';
+import DropboxSquareFilledSvg from '@buianhthang/icons-svg/lib/asn/DropboxSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DropboxSquareFilledIconType extends FunctionalComponent<AntdIconProps> {

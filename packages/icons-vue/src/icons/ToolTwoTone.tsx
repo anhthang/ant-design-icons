@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ToolTwoToneSvg from '@ant-design/icons-svg/lib/asn/ToolTwoTone';
+import ToolTwoToneSvg from '@buianhthang/icons-svg/lib/asn/ToolTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ToolTwoToneIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CaretRightFilledSvg from '@ant-design/icons-svg/lib/asn/CaretRightFilled';
+import CaretRightFilledSvg from '@buianhthang/icons-svg/lib/asn/CaretRightFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CaretRightFilledIconType extends FunctionalComponent<AntdIconProps> {

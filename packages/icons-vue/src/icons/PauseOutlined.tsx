@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import PauseOutlinedSvg from '@ant-design/icons-svg/lib/asn/PauseOutlined';
+import PauseOutlinedSvg from '@buianhthang/icons-svg/lib/asn/PauseOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface PauseOutlinedIconType extends FunctionalComponent<AntdIconProps> {

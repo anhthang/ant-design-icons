@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CodeFilledSvg from '@ant-design/icons-svg/lib/asn/CodeFilled';
+import CodeFilledSvg from '@buianhthang/icons-svg/lib/asn/CodeFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CodeFilledIconType extends FunctionalComponent<AntdIconProps> {

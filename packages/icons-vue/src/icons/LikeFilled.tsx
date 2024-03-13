@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import LikeFilledSvg from '@ant-design/icons-svg/lib/asn/LikeFilled';
+import LikeFilledSvg from '@buianhthang/icons-svg/lib/asn/LikeFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface LikeFilledIconType extends FunctionalComponent<AntdIconProps> {

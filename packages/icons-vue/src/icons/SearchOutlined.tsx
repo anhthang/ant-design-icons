@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SearchOutlinedSvg from '@ant-design/icons-svg/lib/asn/SearchOutlined';
+import SearchOutlinedSvg from '@buianhthang/icons-svg/lib/asn/SearchOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SearchOutlinedIconType extends FunctionalComponent<AntdIconProps> {

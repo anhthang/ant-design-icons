@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import TrademarkCircleFilledSvg from '@ant-design/icons-svg/lib/asn/TrademarkCircleFilled';
+import TrademarkCircleFilledSvg from '@buianhthang/icons-svg/lib/asn/TrademarkCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface TrademarkCircleFilledIconType extends FunctionalComponent<AntdIconProps> {

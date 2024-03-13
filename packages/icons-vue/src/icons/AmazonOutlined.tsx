@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import AmazonOutlinedSvg from '@ant-design/icons-svg/lib/asn/AmazonOutlined';
+import AmazonOutlinedSvg from '@buianhthang/icons-svg/lib/asn/AmazonOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface AmazonOutlinedIconType extends FunctionalComponent<AntdIconProps> {

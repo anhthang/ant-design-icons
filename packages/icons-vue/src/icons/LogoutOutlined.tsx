@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import LogoutOutlinedSvg from '@ant-design/icons-svg/lib/asn/LogoutOutlined';
+import LogoutOutlinedSvg from '@buianhthang/icons-svg/lib/asn/LogoutOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface LogoutOutlinedIconType extends FunctionalComponent<AntdIconProps> {

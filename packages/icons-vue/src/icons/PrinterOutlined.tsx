@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import PrinterOutlinedSvg from '@ant-design/icons-svg/lib/asn/PrinterOutlined';
+import PrinterOutlinedSvg from '@buianhthang/icons-svg/lib/asn/PrinterOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface PrinterOutlinedIconType extends FunctionalComponent<AntdIconProps> {

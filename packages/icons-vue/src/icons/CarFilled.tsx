@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CarFilledSvg from '@ant-design/icons-svg/lib/asn/CarFilled';
+import CarFilledSvg from '@buianhthang/icons-svg/lib/asn/CarFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CarFilledIconType extends FunctionalComponent<AntdIconProps> {

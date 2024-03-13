@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BilibiliFilledSvg from '@ant-design/icons-svg/lib/asn/BilibiliFilled';
+import BilibiliFilledSvg from '@buianhthang/icons-svg/lib/asn/BilibiliFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BilibiliFilledIconType extends FunctionalComponent<AntdIconProps> {

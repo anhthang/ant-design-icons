@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import RollbackOutlinedSvg from '@ant-design/icons-svg/lib/asn/RollbackOutlined';
+import RollbackOutlinedSvg from '@buianhthang/icons-svg/lib/asn/RollbackOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface RollbackOutlinedIconType extends FunctionalComponent<AntdIconProps> {

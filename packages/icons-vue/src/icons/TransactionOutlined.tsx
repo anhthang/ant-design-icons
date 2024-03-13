@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import TransactionOutlinedSvg from '@ant-design/icons-svg/lib/asn/TransactionOutlined';
+import TransactionOutlinedSvg from '@buianhthang/icons-svg/lib/asn/TransactionOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface TransactionOutlinedIconType extends FunctionalComponent<AntdIconProps> {

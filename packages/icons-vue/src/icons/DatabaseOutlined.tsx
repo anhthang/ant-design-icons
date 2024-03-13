@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DatabaseOutlinedSvg from '@ant-design/icons-svg/lib/asn/DatabaseOutlined';
+import DatabaseOutlinedSvg from '@buianhthang/icons-svg/lib/asn/DatabaseOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DatabaseOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import EditFilledSvg from '@ant-design/icons-svg/lib/asn/EditFilled';
+import EditFilledSvg from '@buianhthang/icons-svg/lib/asn/EditFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface EditFilledIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CrownOutlinedSvg from '@ant-design/icons-svg/lib/asn/CrownOutlined';
+import CrownOutlinedSvg from '@buianhthang/icons-svg/lib/asn/CrownOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CrownOutlinedIconType extends FunctionalComponent<AntdIconProps> {

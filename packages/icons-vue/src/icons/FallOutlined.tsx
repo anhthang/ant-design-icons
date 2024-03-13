@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FallOutlinedSvg from '@ant-design/icons-svg/lib/asn/FallOutlined';
+import FallOutlinedSvg from '@buianhthang/icons-svg/lib/asn/FallOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FallOutlinedIconType extends FunctionalComponent<AntdIconProps> {

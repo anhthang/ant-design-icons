@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FastBackwardOutlinedSvg from '@ant-design/icons-svg/lib/asn/FastBackwardOutlined';
+import FastBackwardOutlinedSvg from '@buianhthang/icons-svg/lib/asn/FastBackwardOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FastBackwardOutlinedIconType extends FunctionalComponent<AntdIconProps> {

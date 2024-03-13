@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CompassFilledSvg from '@ant-design/icons-svg/lib/asn/CompassFilled';
+import CompassFilledSvg from '@buianhthang/icons-svg/lib/asn/CompassFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CompassFilledIconType extends FunctionalComponent<AntdIconProps> {

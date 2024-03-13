@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import WalletTwoToneSvg from '@ant-design/icons-svg/lib/asn/WalletTwoTone';
+import WalletTwoToneSvg from '@buianhthang/icons-svg/lib/asn/WalletTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface WalletTwoToneIconType extends FunctionalComponent<AntdIconProps> {

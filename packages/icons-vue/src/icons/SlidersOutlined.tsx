@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SlidersOutlinedSvg from '@ant-design/icons-svg/lib/asn/SlidersOutlined';
+import SlidersOutlinedSvg from '@buianhthang/icons-svg/lib/asn/SlidersOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SlidersOutlinedIconType extends FunctionalComponent<AntdIconProps> {

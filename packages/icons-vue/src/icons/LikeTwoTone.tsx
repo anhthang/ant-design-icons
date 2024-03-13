@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import LikeTwoToneSvg from '@ant-design/icons-svg/lib/asn/LikeTwoTone';
+import LikeTwoToneSvg from '@buianhthang/icons-svg/lib/asn/LikeTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface LikeTwoToneIconType extends FunctionalComponent<AntdIconProps> {

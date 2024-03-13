@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import VerticalLeftOutlinedSvg from '@ant-design/icons-svg/lib/asn/VerticalLeftOutlined';
+import VerticalLeftOutlinedSvg from '@buianhthang/icons-svg/lib/asn/VerticalLeftOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface VerticalLeftOutlinedIconType extends FunctionalComponent<AntdIconProps> {

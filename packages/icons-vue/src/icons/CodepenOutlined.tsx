@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CodepenOutlinedSvg from '@ant-design/icons-svg/lib/asn/CodepenOutlined';
+import CodepenOutlinedSvg from '@buianhthang/icons-svg/lib/asn/CodepenOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CodepenOutlinedIconType extends FunctionalComponent<AntdIconProps> {

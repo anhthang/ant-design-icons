@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ScheduleOutlinedSvg from '@ant-design/icons-svg/lib/asn/ScheduleOutlined';
+import ScheduleOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ScheduleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ScheduleOutlinedIconType extends FunctionalComponent<AntdIconProps> {

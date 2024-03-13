@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import JavaScriptOutlinedSvg from '@ant-design/icons-svg/lib/asn/JavaScriptOutlined';
+import JavaScriptOutlinedSvg from '@buianhthang/icons-svg/lib/asn/JavaScriptOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface JavaScriptOutlinedIconType extends FunctionalComponent<AntdIconProps> {

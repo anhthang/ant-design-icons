@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ScissorOutlinedSvg from '@ant-design/icons-svg/lib/asn/ScissorOutlined';
+import ScissorOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ScissorOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ScissorOutlinedIconType extends FunctionalComponent<AntdIconProps> {

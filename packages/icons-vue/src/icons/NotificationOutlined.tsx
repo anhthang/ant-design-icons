@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import NotificationOutlinedSvg from '@ant-design/icons-svg/lib/asn/NotificationOutlined';
+import NotificationOutlinedSvg from '@buianhthang/icons-svg/lib/asn/NotificationOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface NotificationOutlinedIconType extends FunctionalComponent<AntdIconProps> {

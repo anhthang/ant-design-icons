@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import IdcardTwoToneSvg from '@ant-design/icons-svg/lib/asn/IdcardTwoTone';
+import IdcardTwoToneSvg from '@buianhthang/icons-svg/lib/asn/IdcardTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface IdcardTwoToneIconType extends FunctionalComponent<AntdIconProps> {

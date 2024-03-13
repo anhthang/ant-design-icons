@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DropboxCircleFilledSvg from '@ant-design/icons-svg/lib/asn/DropboxCircleFilled';
+import DropboxCircleFilledSvg from '@buianhthang/icons-svg/lib/asn/DropboxCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DropboxCircleFilledIconType extends FunctionalComponent<AntdIconProps> {

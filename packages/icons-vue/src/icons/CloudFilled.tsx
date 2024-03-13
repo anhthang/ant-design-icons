@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CloudFilledSvg from '@ant-design/icons-svg/lib/asn/CloudFilled';
+import CloudFilledSvg from '@buianhthang/icons-svg/lib/asn/CloudFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CloudFilledIconType extends FunctionalComponent<AntdIconProps> {

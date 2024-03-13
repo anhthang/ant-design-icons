@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import WalletFilledSvg from '@ant-design/icons-svg/lib/asn/WalletFilled';
+import WalletFilledSvg from '@buianhthang/icons-svg/lib/asn/WalletFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface WalletFilledIconType extends FunctionalComponent<AntdIconProps> {

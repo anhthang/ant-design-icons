@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FireTwoToneSvg from '@ant-design/icons-svg/lib/asn/FireTwoTone';
+import FireTwoToneSvg from '@buianhthang/icons-svg/lib/asn/FireTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FireTwoToneIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MinusSquareOutlinedSvg from '@ant-design/icons-svg/lib/asn/MinusSquareOutlined';
+import MinusSquareOutlinedSvg from '@buianhthang/icons-svg/lib/asn/MinusSquareOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MinusSquareOutlinedIconType extends FunctionalComponent<AntdIconProps> {

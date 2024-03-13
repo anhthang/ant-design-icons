@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import WindowsFilledSvg from '@ant-design/icons-svg/lib/asn/WindowsFilled';
+import WindowsFilledSvg from '@buianhthang/icons-svg/lib/asn/WindowsFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface WindowsFilledIconType extends FunctionalComponent<AntdIconProps> {

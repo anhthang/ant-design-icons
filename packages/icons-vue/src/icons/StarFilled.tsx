@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import StarFilledSvg from '@ant-design/icons-svg/lib/asn/StarFilled';
+import StarFilledSvg from '@buianhthang/icons-svg/lib/asn/StarFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface StarFilledIconType extends FunctionalComponent<AntdIconProps> {

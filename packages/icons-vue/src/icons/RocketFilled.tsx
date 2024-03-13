@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import RocketFilledSvg from '@ant-design/icons-svg/lib/asn/RocketFilled';
+import RocketFilledSvg from '@buianhthang/icons-svg/lib/asn/RocketFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface RocketFilledIconType extends FunctionalComponent<AntdIconProps> {

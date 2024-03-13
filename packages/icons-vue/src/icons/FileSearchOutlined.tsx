@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FileSearchOutlinedSvg from '@ant-design/icons-svg/lib/asn/FileSearchOutlined';
+import FileSearchOutlinedSvg from '@buianhthang/icons-svg/lib/asn/FileSearchOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FileSearchOutlinedIconType extends FunctionalComponent<AntdIconProps> {

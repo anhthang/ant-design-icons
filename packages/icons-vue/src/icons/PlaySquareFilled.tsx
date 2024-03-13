@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import PlaySquareFilledSvg from '@ant-design/icons-svg/lib/asn/PlaySquareFilled';
+import PlaySquareFilledSvg from '@buianhthang/icons-svg/lib/asn/PlaySquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface PlaySquareFilledIconType extends FunctionalComponent<AntdIconProps> {

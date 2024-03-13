@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import PictureOutlinedSvg from '@ant-design/icons-svg/lib/asn/PictureOutlined';
+import PictureOutlinedSvg from '@buianhthang/icons-svg/lib/asn/PictureOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface PictureOutlinedIconType extends FunctionalComponent<AntdIconProps> {

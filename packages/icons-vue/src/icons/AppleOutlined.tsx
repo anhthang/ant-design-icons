@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import AppleOutlinedSvg from '@ant-design/icons-svg/lib/asn/AppleOutlined';
+import AppleOutlinedSvg from '@buianhthang/icons-svg/lib/asn/AppleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface AppleOutlinedIconType extends FunctionalComponent<AntdIconProps> {

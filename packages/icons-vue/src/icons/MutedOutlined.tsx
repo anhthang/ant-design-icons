@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MutedOutlinedSvg from '@ant-design/icons-svg/lib/asn/MutedOutlined';
+import MutedOutlinedSvg from '@buianhthang/icons-svg/lib/asn/MutedOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MutedOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DisconnectOutlinedSvg from '@ant-design/icons-svg/lib/asn/DisconnectOutlined';
+import DisconnectOutlinedSvg from '@buianhthang/icons-svg/lib/asn/DisconnectOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DisconnectOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import HighlightTwoToneSvg from '@ant-design/icons-svg/lib/asn/HighlightTwoTone';
+import HighlightTwoToneSvg from '@buianhthang/icons-svg/lib/asn/HighlightTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface HighlightTwoToneIconType extends FunctionalComponent<AntdIconProps> {

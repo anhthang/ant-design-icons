@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import HddOutlinedSvg from '@ant-design/icons-svg/lib/asn/HddOutlined';
+import HddOutlinedSvg from '@buianhthang/icons-svg/lib/asn/HddOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface HddOutlinedIconType extends FunctionalComponent<AntdIconProps> {

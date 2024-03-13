@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BgColorsOutlinedSvg from '@ant-design/icons-svg/lib/asn/BgColorsOutlined';
+import BgColorsOutlinedSvg from '@buianhthang/icons-svg/lib/asn/BgColorsOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BgColorsOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import UpCircleTwoToneSvg from '@ant-design/icons-svg/lib/asn/UpCircleTwoTone';
+import UpCircleTwoToneSvg from '@buianhthang/icons-svg/lib/asn/UpCircleTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface UpCircleTwoToneIconType extends FunctionalComponent<AntdIconProps> {

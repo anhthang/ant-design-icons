@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DashOutlinedSvg from '@ant-design/icons-svg/lib/asn/DashOutlined';
+import DashOutlinedSvg from '@buianhthang/icons-svg/lib/asn/DashOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DashOutlinedIconType extends FunctionalComponent<AntdIconProps> {

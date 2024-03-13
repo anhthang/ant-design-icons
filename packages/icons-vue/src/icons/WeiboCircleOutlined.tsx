@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import WeiboCircleOutlinedSvg from '@ant-design/icons-svg/lib/asn/WeiboCircleOutlined';
+import WeiboCircleOutlinedSvg from '@buianhthang/icons-svg/lib/asn/WeiboCircleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface WeiboCircleOutlinedIconType extends FunctionalComponent<AntdIconProps> {

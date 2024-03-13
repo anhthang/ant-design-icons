@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import PartitionOutlinedSvg from '@ant-design/icons-svg/lib/asn/PartitionOutlined';
+import PartitionOutlinedSvg from '@buianhthang/icons-svg/lib/asn/PartitionOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface PartitionOutlinedIconType extends FunctionalComponent<AntdIconProps> {

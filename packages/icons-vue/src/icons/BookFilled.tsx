@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BookFilledSvg from '@ant-design/icons-svg/lib/asn/BookFilled';
+import BookFilledSvg from '@buianhthang/icons-svg/lib/asn/BookFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BookFilledIconType extends FunctionalComponent<AntdIconProps> {

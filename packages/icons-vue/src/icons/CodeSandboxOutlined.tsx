@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CodeSandboxOutlinedSvg from '@ant-design/icons-svg/lib/asn/CodeSandboxOutlined';
+import CodeSandboxOutlinedSvg from '@buianhthang/icons-svg/lib/asn/CodeSandboxOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CodeSandboxOutlinedIconType extends FunctionalComponent<AntdIconProps> {

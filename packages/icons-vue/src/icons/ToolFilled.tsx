@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ToolFilledSvg from '@ant-design/icons-svg/lib/asn/ToolFilled';
+import ToolFilledSvg from '@buianhthang/icons-svg/lib/asn/ToolFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ToolFilledIconType extends FunctionalComponent<AntdIconProps> {

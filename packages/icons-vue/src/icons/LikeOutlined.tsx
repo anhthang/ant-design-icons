@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import LikeOutlinedSvg from '@ant-design/icons-svg/lib/asn/LikeOutlined';
+import LikeOutlinedSvg from '@buianhthang/icons-svg/lib/asn/LikeOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface LikeOutlinedIconType extends FunctionalComponent<AntdIconProps> {

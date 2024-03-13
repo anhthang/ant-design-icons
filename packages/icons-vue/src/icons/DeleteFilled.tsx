@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DeleteFilledSvg from '@ant-design/icons-svg/lib/asn/DeleteFilled';
+import DeleteFilledSvg from '@buianhthang/icons-svg/lib/asn/DeleteFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DeleteFilledIconType extends FunctionalComponent<AntdIconProps> {

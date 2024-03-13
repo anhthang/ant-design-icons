@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import UnlockOutlinedSvg from '@ant-design/icons-svg/lib/asn/UnlockOutlined';
+import UnlockOutlinedSvg from '@buianhthang/icons-svg/lib/asn/UnlockOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface UnlockOutlinedIconType extends FunctionalComponent<AntdIconProps> {

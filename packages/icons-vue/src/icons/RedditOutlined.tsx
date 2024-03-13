@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import RedditOutlinedSvg from '@ant-design/icons-svg/lib/asn/RedditOutlined';
+import RedditOutlinedSvg from '@buianhthang/icons-svg/lib/asn/RedditOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface RedditOutlinedIconType extends FunctionalComponent<AntdIconProps> {

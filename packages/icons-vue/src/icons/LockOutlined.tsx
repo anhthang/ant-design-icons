@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import LockOutlinedSvg from '@ant-design/icons-svg/lib/asn/LockOutlined';
+import LockOutlinedSvg from '@buianhthang/icons-svg/lib/asn/LockOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface LockOutlinedIconType extends FunctionalComponent<AntdIconProps> {

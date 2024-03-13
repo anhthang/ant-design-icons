@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import PushpinFilledSvg from '@ant-design/icons-svg/lib/asn/PushpinFilled';
+import PushpinFilledSvg from '@buianhthang/icons-svg/lib/asn/PushpinFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface PushpinFilledIconType extends FunctionalComponent<AntdIconProps> {

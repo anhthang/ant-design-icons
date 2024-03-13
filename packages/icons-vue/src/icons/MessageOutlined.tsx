@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MessageOutlinedSvg from '@ant-design/icons-svg/lib/asn/MessageOutlined';
+import MessageOutlinedSvg from '@buianhthang/icons-svg/lib/asn/MessageOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MessageOutlinedIconType extends FunctionalComponent<AntdIconProps> {

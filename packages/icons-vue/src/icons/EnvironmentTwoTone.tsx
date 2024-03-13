@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import EnvironmentTwoToneSvg from '@ant-design/icons-svg/lib/asn/EnvironmentTwoTone';
+import EnvironmentTwoToneSvg from '@buianhthang/icons-svg/lib/asn/EnvironmentTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface EnvironmentTwoToneIconType extends FunctionalComponent<AntdIconProps> {

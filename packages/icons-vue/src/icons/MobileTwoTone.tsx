@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MobileTwoToneSvg from '@ant-design/icons-svg/lib/asn/MobileTwoTone';
+import MobileTwoToneSvg from '@buianhthang/icons-svg/lib/asn/MobileTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MobileTwoToneIconType extends FunctionalComponent<AntdIconProps> {

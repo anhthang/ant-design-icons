@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CloudTwoToneSvg from '@ant-design/icons-svg/lib/asn/CloudTwoTone';
+import CloudTwoToneSvg from '@buianhthang/icons-svg/lib/asn/CloudTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CloudTwoToneIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DribbbleSquareOutlinedSvg from '@ant-design/icons-svg/lib/asn/DribbbleSquareOutlined';
+import DribbbleSquareOutlinedSvg from '@buianhthang/icons-svg/lib/asn/DribbbleSquareOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DribbbleSquareOutlinedIconType extends FunctionalComponent<AntdIconProps> {

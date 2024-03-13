@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import LockFilledSvg from '@ant-design/icons-svg/lib/asn/LockFilled';
+import LockFilledSvg from '@buianhthang/icons-svg/lib/asn/LockFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface LockFilledIconType extends FunctionalComponent<AntdIconProps> {

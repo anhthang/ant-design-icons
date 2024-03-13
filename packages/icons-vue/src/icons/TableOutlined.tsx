@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import TableOutlinedSvg from '@ant-design/icons-svg/lib/asn/TableOutlined';
+import TableOutlinedSvg from '@buianhthang/icons-svg/lib/asn/TableOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface TableOutlinedIconType extends FunctionalComponent<AntdIconProps> {

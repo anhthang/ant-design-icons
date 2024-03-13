@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SkypeFilledSvg from '@ant-design/icons-svg/lib/asn/SkypeFilled';
+import SkypeFilledSvg from '@buianhthang/icons-svg/lib/asn/SkypeFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SkypeFilledIconType extends FunctionalComponent<AntdIconProps> {

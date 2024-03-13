@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import GiftTwoToneSvg from '@ant-design/icons-svg/lib/asn/GiftTwoTone';
+import GiftTwoToneSvg from '@buianhthang/icons-svg/lib/asn/GiftTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface GiftTwoToneIconType extends FunctionalComponent<AntdIconProps> {

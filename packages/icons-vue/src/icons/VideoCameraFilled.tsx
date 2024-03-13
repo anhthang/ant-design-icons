@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import VideoCameraFilledSvg from '@ant-design/icons-svg/lib/asn/VideoCameraFilled';
+import VideoCameraFilledSvg from '@buianhthang/icons-svg/lib/asn/VideoCameraFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface VideoCameraFilledIconType extends FunctionalComponent<AntdIconProps> {

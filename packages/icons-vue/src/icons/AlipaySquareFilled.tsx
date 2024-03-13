@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import AlipaySquareFilledSvg from '@ant-design/icons-svg/lib/asn/AlipaySquareFilled';
+import AlipaySquareFilledSvg from '@buianhthang/icons-svg/lib/asn/AlipaySquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface AlipaySquareFilledIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CalculatorTwoToneSvg from '@ant-design/icons-svg/lib/asn/CalculatorTwoTone';
+import CalculatorTwoToneSvg from '@buianhthang/icons-svg/lib/asn/CalculatorTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CalculatorTwoToneIconType extends FunctionalComponent<AntdIconProps> {

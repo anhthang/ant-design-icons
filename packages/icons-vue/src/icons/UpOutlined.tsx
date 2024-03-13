@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import UpOutlinedSvg from '@ant-design/icons-svg/lib/asn/UpOutlined';
+import UpOutlinedSvg from '@buianhthang/icons-svg/lib/asn/UpOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface UpOutlinedIconType extends FunctionalComponent<AntdIconProps> {

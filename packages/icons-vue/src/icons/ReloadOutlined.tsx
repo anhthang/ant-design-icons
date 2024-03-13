@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ReloadOutlinedSvg from '@ant-design/icons-svg/lib/asn/ReloadOutlined';
+import ReloadOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ReloadOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ReloadOutlinedIconType extends FunctionalComponent<AntdIconProps> {

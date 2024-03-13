@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import VideoCameraOutlinedSvg from '@ant-design/icons-svg/lib/asn/VideoCameraOutlined';
+import VideoCameraOutlinedSvg from '@buianhthang/icons-svg/lib/asn/VideoCameraOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface VideoCameraOutlinedIconType extends FunctionalComponent<AntdIconProps> {

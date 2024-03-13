@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FireOutlinedSvg from '@ant-design/icons-svg/lib/asn/FireOutlined';
+import FireOutlinedSvg from '@buianhthang/icons-svg/lib/asn/FireOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FireOutlinedIconType extends FunctionalComponent<AntdIconProps> {

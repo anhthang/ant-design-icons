@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import WomanOutlinedSvg from '@ant-design/icons-svg/lib/asn/WomanOutlined';
+import WomanOutlinedSvg from '@buianhthang/icons-svg/lib/asn/WomanOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface WomanOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import HeartOutlinedSvg from '@ant-design/icons-svg/lib/asn/HeartOutlined';
+import HeartOutlinedSvg from '@buianhthang/icons-svg/lib/asn/HeartOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface HeartOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import PieChartOutlinedSvg from '@ant-design/icons-svg/lib/asn/PieChartOutlined';
+import PieChartOutlinedSvg from '@buianhthang/icons-svg/lib/asn/PieChartOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface PieChartOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DislikeFilledSvg from '@ant-design/icons-svg/lib/asn/DislikeFilled';
+import DislikeFilledSvg from '@buianhthang/icons-svg/lib/asn/DislikeFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DislikeFilledIconType extends FunctionalComponent<AntdIconProps> {

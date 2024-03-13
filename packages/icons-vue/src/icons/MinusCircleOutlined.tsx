@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MinusCircleOutlinedSvg from '@ant-design/icons-svg/lib/asn/MinusCircleOutlined';
+import MinusCircleOutlinedSvg from '@buianhthang/icons-svg/lib/asn/MinusCircleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MinusCircleOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import GlobalOutlinedSvg from '@ant-design/icons-svg/lib/asn/GlobalOutlined';
+import GlobalOutlinedSvg from '@buianhthang/icons-svg/lib/asn/GlobalOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface GlobalOutlinedIconType extends FunctionalComponent<AntdIconProps> {

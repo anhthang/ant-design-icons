@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import HourglassFilledSvg from '@ant-design/icons-svg/lib/asn/HourglassFilled';
+import HourglassFilledSvg from '@buianhthang/icons-svg/lib/asn/HourglassFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface HourglassFilledIconType extends FunctionalComponent<AntdIconProps> {

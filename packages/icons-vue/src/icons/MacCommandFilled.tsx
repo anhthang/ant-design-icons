@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MacCommandFilledSvg from '@ant-design/icons-svg/lib/asn/MacCommandFilled';
+import MacCommandFilledSvg from '@buianhthang/icons-svg/lib/asn/MacCommandFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MacCommandFilledIconType extends FunctionalComponent<AntdIconProps> {

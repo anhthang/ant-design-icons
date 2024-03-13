@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import IdcardFilledSvg from '@ant-design/icons-svg/lib/asn/IdcardFilled';
+import IdcardFilledSvg from '@buianhthang/icons-svg/lib/asn/IdcardFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface IdcardFilledIconType extends FunctionalComponent<AntdIconProps> {

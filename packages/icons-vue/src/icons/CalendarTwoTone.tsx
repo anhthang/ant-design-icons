@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CalendarTwoToneSvg from '@ant-design/icons-svg/lib/asn/CalendarTwoTone';
+import CalendarTwoToneSvg from '@buianhthang/icons-svg/lib/asn/CalendarTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CalendarTwoToneIconType extends FunctionalComponent<AntdIconProps> {

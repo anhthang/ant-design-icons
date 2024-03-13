@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import PushpinTwoToneSvg from '@ant-design/icons-svg/lib/asn/PushpinTwoTone';
+import PushpinTwoToneSvg from '@buianhthang/icons-svg/lib/asn/PushpinTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface PushpinTwoToneIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import GoldFilledSvg from '@ant-design/icons-svg/lib/asn/GoldFilled';
+import GoldFilledSvg from '@buianhthang/icons-svg/lib/asn/GoldFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface GoldFilledIconType extends FunctionalComponent<AntdIconProps> {

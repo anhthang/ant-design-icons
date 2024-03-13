@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import OpenAIOutlinedSvg from '@ant-design/icons-svg/lib/asn/OpenAIOutlined';
+import OpenAIOutlinedSvg from '@buianhthang/icons-svg/lib/asn/OpenAIOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface OpenAIOutlinedIconType extends FunctionalComponent<AntdIconProps> {

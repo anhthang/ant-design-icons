@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FileExcelFilledSvg from '@ant-design/icons-svg/lib/asn/FileExcelFilled';
+import FileExcelFilledSvg from '@buianhthang/icons-svg/lib/asn/FileExcelFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FileExcelFilledIconType extends FunctionalComponent<AntdIconProps> {

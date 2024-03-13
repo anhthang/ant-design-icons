@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FileExcelOutlinedSvg from '@ant-design/icons-svg/lib/asn/FileExcelOutlined';
+import FileExcelOutlinedSvg from '@buianhthang/icons-svg/lib/asn/FileExcelOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FileExcelOutlinedIconType extends FunctionalComponent<AntdIconProps> {

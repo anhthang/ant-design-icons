@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SecurityScanOutlinedSvg from '@ant-design/icons-svg/lib/asn/SecurityScanOutlined';
+import SecurityScanOutlinedSvg from '@buianhthang/icons-svg/lib/asn/SecurityScanOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SecurityScanOutlinedIconType extends FunctionalComponent<AntdIconProps> {

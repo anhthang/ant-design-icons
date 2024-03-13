@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import HeartTwoToneSvg from '@ant-design/icons-svg/lib/asn/HeartTwoTone';
+import HeartTwoToneSvg from '@buianhthang/icons-svg/lib/asn/HeartTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface HeartTwoToneIconType extends FunctionalComponent<AntdIconProps> {

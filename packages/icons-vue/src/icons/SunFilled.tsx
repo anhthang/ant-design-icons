@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SunFilledSvg from '@ant-design/icons-svg/lib/asn/SunFilled';
+import SunFilledSvg from '@buianhthang/icons-svg/lib/asn/SunFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SunFilledIconType extends FunctionalComponent<AntdIconProps> {

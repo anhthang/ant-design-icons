@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import InstagramFilledSvg from '@ant-design/icons-svg/lib/asn/InstagramFilled';
+import InstagramFilledSvg from '@buianhthang/icons-svg/lib/asn/InstagramFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface InstagramFilledIconType extends FunctionalComponent<AntdIconProps> {

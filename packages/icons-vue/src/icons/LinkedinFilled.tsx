@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import LinkedinFilledSvg from '@ant-design/icons-svg/lib/asn/LinkedinFilled';
+import LinkedinFilledSvg from '@buianhthang/icons-svg/lib/asn/LinkedinFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface LinkedinFilledIconType extends FunctionalComponent<AntdIconProps> {

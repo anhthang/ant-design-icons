@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ExceptionOutlinedSvg from '@ant-design/icons-svg/lib/asn/ExceptionOutlined';
+import ExceptionOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ExceptionOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ExceptionOutlinedIconType extends FunctionalComponent<AntdIconProps> {

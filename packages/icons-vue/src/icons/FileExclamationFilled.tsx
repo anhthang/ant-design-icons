@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FileExclamationFilledSvg from '@ant-design/icons-svg/lib/asn/FileExclamationFilled';
+import FileExclamationFilledSvg from '@buianhthang/icons-svg/lib/asn/FileExclamationFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FileExclamationFilledIconType extends FunctionalComponent<AntdIconProps> {

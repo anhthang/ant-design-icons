@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import EyeTwoToneSvg from '@ant-design/icons-svg/lib/asn/EyeTwoTone';
+import EyeTwoToneSvg from '@buianhthang/icons-svg/lib/asn/EyeTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface EyeTwoToneIconType extends FunctionalComponent<AntdIconProps> {

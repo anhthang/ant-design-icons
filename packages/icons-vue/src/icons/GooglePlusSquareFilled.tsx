@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import GooglePlusSquareFilledSvg from '@ant-design/icons-svg/lib/asn/GooglePlusSquareFilled';
+import GooglePlusSquareFilledSvg from '@buianhthang/icons-svg/lib/asn/GooglePlusSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface GooglePlusSquareFilledIconType extends FunctionalComponent<AntdIconProps> {

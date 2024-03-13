@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BulbTwoToneSvg from '@ant-design/icons-svg/lib/asn/BulbTwoTone';
+import BulbTwoToneSvg from '@buianhthang/icons-svg/lib/asn/BulbTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BulbTwoToneIconType extends FunctionalComponent<AntdIconProps> {

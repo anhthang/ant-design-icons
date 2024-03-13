@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import PropertySafetyFilledSvg from '@ant-design/icons-svg/lib/asn/PropertySafetyFilled';
+import PropertySafetyFilledSvg from '@buianhthang/icons-svg/lib/asn/PropertySafetyFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface PropertySafetyFilledIconType extends FunctionalComponent<AntdIconProps> {

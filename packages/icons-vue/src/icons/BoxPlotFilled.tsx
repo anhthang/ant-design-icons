@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BoxPlotFilledSvg from '@ant-design/icons-svg/lib/asn/BoxPlotFilled';
+import BoxPlotFilledSvg from '@buianhthang/icons-svg/lib/asn/BoxPlotFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BoxPlotFilledIconType extends FunctionalComponent<AntdIconProps> {

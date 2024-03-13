@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import TagsOutlinedSvg from '@ant-design/icons-svg/lib/asn/TagsOutlined';
+import TagsOutlinedSvg from '@buianhthang/icons-svg/lib/asn/TagsOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface TagsOutlinedIconType extends FunctionalComponent<AntdIconProps> {

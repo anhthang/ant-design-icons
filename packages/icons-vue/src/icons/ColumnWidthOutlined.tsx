@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ColumnWidthOutlinedSvg from '@ant-design/icons-svg/lib/asn/ColumnWidthOutlined';
+import ColumnWidthOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ColumnWidthOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ColumnWidthOutlinedIconType extends FunctionalComponent<AntdIconProps> {

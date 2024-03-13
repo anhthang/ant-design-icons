@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ScheduleTwoToneSvg from '@ant-design/icons-svg/lib/asn/ScheduleTwoTone';
+import ScheduleTwoToneSvg from '@buianhthang/icons-svg/lib/asn/ScheduleTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ScheduleTwoToneIconType extends FunctionalComponent<AntdIconProps> {

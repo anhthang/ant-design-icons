@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import Html5FilledSvg from '@ant-design/icons-svg/lib/asn/Html5Filled';
+import Html5FilledSvg from '@buianhthang/icons-svg/lib/asn/Html5Filled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface Html5FilledIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DownloadOutlinedSvg from '@ant-design/icons-svg/lib/asn/DownloadOutlined';
+import DownloadOutlinedSvg from '@buianhthang/icons-svg/lib/asn/DownloadOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DownloadOutlinedIconType extends FunctionalComponent<AntdIconProps> {

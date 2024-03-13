@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CreditCardTwoToneSvg from '@ant-design/icons-svg/lib/asn/CreditCardTwoTone';
+import CreditCardTwoToneSvg from '@buianhthang/icons-svg/lib/asn/CreditCardTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CreditCardTwoToneIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SaveFilledSvg from '@ant-design/icons-svg/lib/asn/SaveFilled';
+import SaveFilledSvg from '@buianhthang/icons-svg/lib/asn/SaveFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SaveFilledIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SafetyCertificateOutlinedSvg from '@ant-design/icons-svg/lib/asn/SafetyCertificateOutlined';
+import SafetyCertificateOutlinedSvg from '@buianhthang/icons-svg/lib/asn/SafetyCertificateOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SafetyCertificateOutlinedIconType extends FunctionalComponent<AntdIconProps> {

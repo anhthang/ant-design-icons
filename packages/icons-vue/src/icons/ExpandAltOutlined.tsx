@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ExpandAltOutlinedSvg from '@ant-design/icons-svg/lib/asn/ExpandAltOutlined';
+import ExpandAltOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ExpandAltOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ExpandAltOutlinedIconType extends FunctionalComponent<AntdIconProps> {

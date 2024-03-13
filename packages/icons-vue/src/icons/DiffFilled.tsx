@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DiffFilledSvg from '@ant-design/icons-svg/lib/asn/DiffFilled';
+import DiffFilledSvg from '@buianhthang/icons-svg/lib/asn/DiffFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DiffFilledIconType extends FunctionalComponent<AntdIconProps> {

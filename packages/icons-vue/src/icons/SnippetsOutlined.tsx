@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SnippetsOutlinedSvg from '@ant-design/icons-svg/lib/asn/SnippetsOutlined';
+import SnippetsOutlinedSvg from '@buianhthang/icons-svg/lib/asn/SnippetsOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SnippetsOutlinedIconType extends FunctionalComponent<AntdIconProps> {

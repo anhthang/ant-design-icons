@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import TagFilledSvg from '@ant-design/icons-svg/lib/asn/TagFilled';
+import TagFilledSvg from '@buianhthang/icons-svg/lib/asn/TagFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface TagFilledIconType extends FunctionalComponent<AntdIconProps> {

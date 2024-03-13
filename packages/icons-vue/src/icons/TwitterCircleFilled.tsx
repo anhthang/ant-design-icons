@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import TwitterCircleFilledSvg from '@ant-design/icons-svg/lib/asn/TwitterCircleFilled';
+import TwitterCircleFilledSvg from '@buianhthang/icons-svg/lib/asn/TwitterCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface TwitterCircleFilledIconType extends FunctionalComponent<AntdIconProps> {

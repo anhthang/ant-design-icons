@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import PayCircleOutlinedSvg from '@ant-design/icons-svg/lib/asn/PayCircleOutlined';
+import PayCircleOutlinedSvg from '@buianhthang/icons-svg/lib/asn/PayCircleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface PayCircleOutlinedIconType extends FunctionalComponent<AntdIconProps> {

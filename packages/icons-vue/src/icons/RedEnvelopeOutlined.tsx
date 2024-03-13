@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import RedEnvelopeOutlinedSvg from '@ant-design/icons-svg/lib/asn/RedEnvelopeOutlined';
+import RedEnvelopeOutlinedSvg from '@buianhthang/icons-svg/lib/asn/RedEnvelopeOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface RedEnvelopeOutlinedIconType extends FunctionalComponent<AntdIconProps> {

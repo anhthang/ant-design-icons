@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FileWordOutlinedSvg from '@ant-design/icons-svg/lib/asn/FileWordOutlined';
+import FileWordOutlinedSvg from '@buianhthang/icons-svg/lib/asn/FileWordOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FileWordOutlinedIconType extends FunctionalComponent<AntdIconProps> {

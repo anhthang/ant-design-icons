@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import XFilledSvg from '@ant-design/icons-svg/lib/asn/XFilled';
+import XFilledSvg from '@buianhthang/icons-svg/lib/asn/XFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface XFilledIconType extends FunctionalComponent<AntdIconProps> {

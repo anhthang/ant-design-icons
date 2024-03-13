@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import GoogleOutlinedSvg from '@ant-design/icons-svg/lib/asn/GoogleOutlined';
+import GoogleOutlinedSvg from '@buianhthang/icons-svg/lib/asn/GoogleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface GoogleOutlinedIconType extends FunctionalComponent<AntdIconProps> {

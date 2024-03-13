@@ -41,6 +41,7 @@ export { default as ArrowLeftOutlined } from './ArrowLeftOutlined';
 export { default as ArrowRightOutlined } from './ArrowRightOutlined';
 export { default as ArrowUpOutlined } from './ArrowUpOutlined';
 export { default as ArrowsAltOutlined } from './ArrowsAltOutlined';
+export { default as ArtisanCollectorOutlined } from './ArtisanCollectorOutlined';
 export { default as AudioFilled } from './AudioFilled';
 export { default as AudioMutedOutlined } from './AudioMutedOutlined';
 export { default as AudioOutlined } from './AudioOutlined';

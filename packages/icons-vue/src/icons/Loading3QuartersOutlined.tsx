@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import Loading3QuartersOutlinedSvg from '@ant-design/icons-svg/lib/asn/Loading3QuartersOutlined';
+import Loading3QuartersOutlinedSvg from '@buianhthang/icons-svg/lib/asn/Loading3QuartersOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface Loading3QuartersOutlinedIconType extends FunctionalComponent<AntdIconProps> {

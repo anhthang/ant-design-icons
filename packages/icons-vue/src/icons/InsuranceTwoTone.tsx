@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import InsuranceTwoToneSvg from '@ant-design/icons-svg/lib/asn/InsuranceTwoTone';
+import InsuranceTwoToneSvg from '@buianhthang/icons-svg/lib/asn/InsuranceTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface InsuranceTwoToneIconType extends FunctionalComponent<AntdIconProps> {

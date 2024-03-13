@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MoneyCollectTwoToneSvg from '@ant-design/icons-svg/lib/asn/MoneyCollectTwoTone';
+import MoneyCollectTwoToneSvg from '@buianhthang/icons-svg/lib/asn/MoneyCollectTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MoneyCollectTwoToneIconType extends FunctionalComponent<AntdIconProps> {

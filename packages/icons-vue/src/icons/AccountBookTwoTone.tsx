@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import AccountBookTwoToneSvg from '@ant-design/icons-svg/lib/asn/AccountBookTwoTone';
+import AccountBookTwoToneSvg from '@buianhthang/icons-svg/lib/asn/AccountBookTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface AccountBookTwoToneIconType extends FunctionalComponent<AntdIconProps> {

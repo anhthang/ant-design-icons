@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import TaobaoOutlinedSvg from '@ant-design/icons-svg/lib/asn/TaobaoOutlined';
+import TaobaoOutlinedSvg from '@buianhthang/icons-svg/lib/asn/TaobaoOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface TaobaoOutlinedIconType extends FunctionalComponent<AntdIconProps> {

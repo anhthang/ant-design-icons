@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MonitorOutlinedSvg from '@ant-design/icons-svg/lib/asn/MonitorOutlined';
+import MonitorOutlinedSvg from '@buianhthang/icons-svg/lib/asn/MonitorOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MonitorOutlinedIconType extends FunctionalComponent<AntdIconProps> {

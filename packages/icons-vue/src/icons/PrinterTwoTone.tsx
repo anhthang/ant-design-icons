@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import PrinterTwoToneSvg from '@ant-design/icons-svg/lib/asn/PrinterTwoTone';
+import PrinterTwoToneSvg from '@buianhthang/icons-svg/lib/asn/PrinterTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface PrinterTwoToneIconType extends FunctionalComponent<AntdIconProps> {

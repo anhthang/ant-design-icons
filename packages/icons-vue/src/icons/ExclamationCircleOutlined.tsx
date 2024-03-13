@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ExclamationCircleOutlinedSvg from '@ant-design/icons-svg/lib/asn/ExclamationCircleOutlined';
+import ExclamationCircleOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ExclamationCircleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ExclamationCircleOutlinedIconType extends FunctionalComponent<AntdIconProps> {

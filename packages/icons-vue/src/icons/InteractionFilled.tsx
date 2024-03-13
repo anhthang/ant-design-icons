@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import InteractionFilledSvg from '@ant-design/icons-svg/lib/asn/InteractionFilled';
+import InteractionFilledSvg from '@buianhthang/icons-svg/lib/asn/InteractionFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface InteractionFilledIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import RightCircleOutlinedSvg from '@ant-design/icons-svg/lib/asn/RightCircleOutlined';
+import RightCircleOutlinedSvg from '@buianhthang/icons-svg/lib/asn/RightCircleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface RightCircleOutlinedIconType extends FunctionalComponent<AntdIconProps> {

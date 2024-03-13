@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FileUnknownFilledSvg from '@ant-design/icons-svg/lib/asn/FileUnknownFilled';
+import FileUnknownFilledSvg from '@buianhthang/icons-svg/lib/asn/FileUnknownFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FileUnknownFilledIconType extends FunctionalComponent<AntdIconProps> {

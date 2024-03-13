@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import GoldenFilledSvg from '@ant-design/icons-svg/lib/asn/GoldenFilled';
+import GoldenFilledSvg from '@buianhthang/icons-svg/lib/asn/GoldenFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface GoldenFilledIconType extends FunctionalComponent<AntdIconProps> {

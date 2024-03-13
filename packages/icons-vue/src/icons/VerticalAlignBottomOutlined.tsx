@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import VerticalAlignBottomOutlinedSvg from '@ant-design/icons-svg/lib/asn/VerticalAlignBottomOutlined';
+import VerticalAlignBottomOutlinedSvg from '@buianhthang/icons-svg/lib/asn/VerticalAlignBottomOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface VerticalAlignBottomOutlinedIconType extends FunctionalComponent<AntdIconProps> {

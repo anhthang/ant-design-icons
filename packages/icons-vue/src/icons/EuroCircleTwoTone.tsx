@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import EuroCircleTwoToneSvg from '@ant-design/icons-svg/lib/asn/EuroCircleTwoTone';
+import EuroCircleTwoToneSvg from '@buianhthang/icons-svg/lib/asn/EuroCircleTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface EuroCircleTwoToneIconType extends FunctionalComponent<AntdIconProps> {

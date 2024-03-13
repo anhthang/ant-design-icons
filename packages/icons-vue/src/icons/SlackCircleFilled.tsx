@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SlackCircleFilledSvg from '@ant-design/icons-svg/lib/asn/SlackCircleFilled';
+import SlackCircleFilledSvg from '@buianhthang/icons-svg/lib/asn/SlackCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SlackCircleFilledIconType extends FunctionalComponent<AntdIconProps> {

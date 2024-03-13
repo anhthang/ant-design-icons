@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FileGifOutlinedSvg from '@ant-design/icons-svg/lib/asn/FileGifOutlined';
+import FileGifOutlinedSvg from '@buianhthang/icons-svg/lib/asn/FileGifOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FileGifOutlinedIconType extends FunctionalComponent<AntdIconProps> {

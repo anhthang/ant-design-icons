@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import PhoneFilledSvg from '@ant-design/icons-svg/lib/asn/PhoneFilled';
+import PhoneFilledSvg from '@buianhthang/icons-svg/lib/asn/PhoneFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface PhoneFilledIconType extends FunctionalComponent<AntdIconProps> {

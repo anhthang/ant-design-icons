@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SpotifyFilledSvg from '@ant-design/icons-svg/lib/asn/SpotifyFilled';
+import SpotifyFilledSvg from '@buianhthang/icons-svg/lib/asn/SpotifyFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SpotifyFilledIconType extends FunctionalComponent<AntdIconProps> {

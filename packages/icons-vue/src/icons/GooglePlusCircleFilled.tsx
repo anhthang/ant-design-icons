@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import GooglePlusCircleFilledSvg from '@ant-design/icons-svg/lib/asn/GooglePlusCircleFilled';
+import GooglePlusCircleFilledSvg from '@buianhthang/icons-svg/lib/asn/GooglePlusCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface GooglePlusCircleFilledIconType extends FunctionalComponent<AntdIconProps> {

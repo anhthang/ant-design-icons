@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import RightSquareTwoToneSvg from '@ant-design/icons-svg/lib/asn/RightSquareTwoTone';
+import RightSquareTwoToneSvg from '@buianhthang/icons-svg/lib/asn/RightSquareTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface RightSquareTwoToneIconType extends FunctionalComponent<AntdIconProps> {

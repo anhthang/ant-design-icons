@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FilterOutlinedSvg from '@ant-design/icons-svg/lib/asn/FilterOutlined';
+import FilterOutlinedSvg from '@buianhthang/icons-svg/lib/asn/FilterOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FilterOutlinedIconType extends FunctionalComponent<AntdIconProps> {

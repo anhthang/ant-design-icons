@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import VerifiedOutlinedSvg from '@ant-design/icons-svg/lib/asn/VerifiedOutlined';
+import VerifiedOutlinedSvg from '@buianhthang/icons-svg/lib/asn/VerifiedOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface VerifiedOutlinedIconType extends FunctionalComponent<AntdIconProps> {

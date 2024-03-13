@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MoonFilledSvg from '@ant-design/icons-svg/lib/asn/MoonFilled';
+import MoonFilledSvg from '@buianhthang/icons-svg/lib/asn/MoonFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MoonFilledIconType extends FunctionalComponent<AntdIconProps> {

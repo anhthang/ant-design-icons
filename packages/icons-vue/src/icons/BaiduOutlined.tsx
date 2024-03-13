@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BaiduOutlinedSvg from '@ant-design/icons-svg/lib/asn/BaiduOutlined';
+import BaiduOutlinedSvg from '@buianhthang/icons-svg/lib/asn/BaiduOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BaiduOutlinedIconType extends FunctionalComponent<AntdIconProps> {

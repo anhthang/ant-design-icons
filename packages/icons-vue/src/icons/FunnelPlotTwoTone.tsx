@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FunnelPlotTwoToneSvg from '@ant-design/icons-svg/lib/asn/FunnelPlotTwoTone';
+import FunnelPlotTwoToneSvg from '@buianhthang/icons-svg/lib/asn/FunnelPlotTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FunnelPlotTwoToneIconType extends FunctionalComponent<AntdIconProps> {

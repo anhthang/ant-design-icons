@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import EditTwoToneSvg from '@ant-design/icons-svg/lib/asn/EditTwoTone';
+import EditTwoToneSvg from '@buianhthang/icons-svg/lib/asn/EditTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface EditTwoToneIconType extends FunctionalComponent<AntdIconProps> {

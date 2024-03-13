@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import InfoCircleOutlinedSvg from '@ant-design/icons-svg/lib/asn/InfoCircleOutlined';
+import InfoCircleOutlinedSvg from '@buianhthang/icons-svg/lib/asn/InfoCircleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface InfoCircleOutlinedIconType extends FunctionalComponent<AntdIconProps> {

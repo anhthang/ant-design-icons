@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DeleteTwoToneSvg from '@ant-design/icons-svg/lib/asn/DeleteTwoTone';
+import DeleteTwoToneSvg from '@buianhthang/icons-svg/lib/asn/DeleteTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DeleteTwoToneIconType extends FunctionalComponent<AntdIconProps> {

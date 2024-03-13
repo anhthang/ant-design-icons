@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CameraTwoToneSvg from '@ant-design/icons-svg/lib/asn/CameraTwoTone';
+import CameraTwoToneSvg from '@buianhthang/icons-svg/lib/asn/CameraTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CameraTwoToneIconType extends FunctionalComponent<AntdIconProps> {

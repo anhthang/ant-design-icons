@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CodeTwoToneSvg from '@ant-design/icons-svg/lib/asn/CodeTwoTone';
+import CodeTwoToneSvg from '@buianhthang/icons-svg/lib/asn/CodeTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CodeTwoToneIconType extends FunctionalComponent<AntdIconProps> {

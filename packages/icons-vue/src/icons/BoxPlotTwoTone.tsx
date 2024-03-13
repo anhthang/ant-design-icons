@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BoxPlotTwoToneSvg from '@ant-design/icons-svg/lib/asn/BoxPlotTwoTone';
+import BoxPlotTwoToneSvg from '@buianhthang/icons-svg/lib/asn/BoxPlotTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BoxPlotTwoToneIconType extends FunctionalComponent<AntdIconProps> {

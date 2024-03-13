@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import EditOutlinedSvg from '@ant-design/icons-svg/lib/asn/EditOutlined';
+import EditOutlinedSvg from '@buianhthang/icons-svg/lib/asn/EditOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface EditOutlinedIconType extends FunctionalComponent<AntdIconProps> {

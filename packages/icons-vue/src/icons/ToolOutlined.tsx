@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ToolOutlinedSvg from '@ant-design/icons-svg/lib/asn/ToolOutlined';
+import ToolOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ToolOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ToolOutlinedIconType extends FunctionalComponent<AntdIconProps> {

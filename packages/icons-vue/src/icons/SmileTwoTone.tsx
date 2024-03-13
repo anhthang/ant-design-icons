@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SmileTwoToneSvg from '@ant-design/icons-svg/lib/asn/SmileTwoTone';
+import SmileTwoToneSvg from '@buianhthang/icons-svg/lib/asn/SmileTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SmileTwoToneIconType extends FunctionalComponent<AntdIconProps> {

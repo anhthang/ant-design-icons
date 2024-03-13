@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import EyeInvisibleOutlinedSvg from '@ant-design/icons-svg/lib/asn/EyeInvisibleOutlined';
+import EyeInvisibleOutlinedSvg from '@buianhthang/icons-svg/lib/asn/EyeInvisibleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface EyeInvisibleOutlinedIconType extends FunctionalComponent<AntdIconProps> {

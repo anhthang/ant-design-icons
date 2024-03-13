@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DingtalkSquareFilledSvg from '@ant-design/icons-svg/lib/asn/DingtalkSquareFilled';
+import DingtalkSquareFilledSvg from '@buianhthang/icons-svg/lib/asn/DingtalkSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DingtalkSquareFilledIconType extends FunctionalComponent<AntdIconProps> {

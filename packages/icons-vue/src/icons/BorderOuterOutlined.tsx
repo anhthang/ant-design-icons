@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BorderOuterOutlinedSvg from '@ant-design/icons-svg/lib/asn/BorderOuterOutlined';
+import BorderOuterOutlinedSvg from '@buianhthang/icons-svg/lib/asn/BorderOuterOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BorderOuterOutlinedIconType extends FunctionalComponent<AntdIconProps> {

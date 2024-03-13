@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SlidersFilledSvg from '@ant-design/icons-svg/lib/asn/SlidersFilled';
+import SlidersFilledSvg from '@buianhthang/icons-svg/lib/asn/SlidersFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SlidersFilledIconType extends FunctionalComponent<AntdIconProps> {

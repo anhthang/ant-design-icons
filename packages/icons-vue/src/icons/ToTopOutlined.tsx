@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ToTopOutlinedSvg from '@ant-design/icons-svg/lib/asn/ToTopOutlined';
+import ToTopOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ToTopOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ToTopOutlinedIconType extends FunctionalComponent<AntdIconProps> {

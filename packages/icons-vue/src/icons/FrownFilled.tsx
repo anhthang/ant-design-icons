@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FrownFilledSvg from '@ant-design/icons-svg/lib/asn/FrownFilled';
+import FrownFilledSvg from '@buianhthang/icons-svg/lib/asn/FrownFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FrownFilledIconType extends FunctionalComponent<AntdIconProps> {

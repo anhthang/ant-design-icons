@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ClearOutlinedSvg from '@ant-design/icons-svg/lib/asn/ClearOutlined';
+import ClearOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ClearOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ClearOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CustomerServiceFilledSvg from '@ant-design/icons-svg/lib/asn/CustomerServiceFilled';
+import CustomerServiceFilledSvg from '@buianhthang/icons-svg/lib/asn/CustomerServiceFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CustomerServiceFilledIconType extends FunctionalComponent<AntdIconProps> {

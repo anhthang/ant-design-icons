@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import UserOutlinedSvg from '@ant-design/icons-svg/lib/asn/UserOutlined';
+import UserOutlinedSvg from '@buianhthang/icons-svg/lib/asn/UserOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface UserOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import PercentageOutlinedSvg from '@ant-design/icons-svg/lib/asn/PercentageOutlined';
+import PercentageOutlinedSvg from '@buianhthang/icons-svg/lib/asn/PercentageOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface PercentageOutlinedIconType extends FunctionalComponent<AntdIconProps> {

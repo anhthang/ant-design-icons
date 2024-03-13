@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FilterFilledSvg from '@ant-design/icons-svg/lib/asn/FilterFilled';
+import FilterFilledSvg from '@buianhthang/icons-svg/lib/asn/FilterFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FilterFilledIconType extends FunctionalComponent<AntdIconProps> {

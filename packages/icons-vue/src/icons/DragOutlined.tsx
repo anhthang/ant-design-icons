@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DragOutlinedSvg from '@ant-design/icons-svg/lib/asn/DragOutlined';
+import DragOutlinedSvg from '@buianhthang/icons-svg/lib/asn/DragOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DragOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import UpSquareTwoToneSvg from '@ant-design/icons-svg/lib/asn/UpSquareTwoTone';
+import UpSquareTwoToneSvg from '@buianhthang/icons-svg/lib/asn/UpSquareTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface UpSquareTwoToneIconType extends FunctionalComponent<AntdIconProps> {

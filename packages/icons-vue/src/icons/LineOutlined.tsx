@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import LineOutlinedSvg from '@ant-design/icons-svg/lib/asn/LineOutlined';
+import LineOutlinedSvg from '@buianhthang/icons-svg/lib/asn/LineOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface LineOutlinedIconType extends FunctionalComponent<AntdIconProps> {

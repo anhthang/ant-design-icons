@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import AlertTwoToneSvg from '@ant-design/icons-svg/lib/asn/AlertTwoTone';
+import AlertTwoToneSvg from '@buianhthang/icons-svg/lib/asn/AlertTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface AlertTwoToneIconType extends FunctionalComponent<AntdIconProps> {

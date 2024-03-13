@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import EnvironmentOutlinedSvg from '@ant-design/icons-svg/lib/asn/EnvironmentOutlined';
+import EnvironmentOutlinedSvg from '@buianhthang/icons-svg/lib/asn/EnvironmentOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface EnvironmentOutlinedIconType extends FunctionalComponent<AntdIconProps> {

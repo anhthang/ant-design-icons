@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import AlipayCircleOutlinedSvg from '@ant-design/icons-svg/lib/asn/AlipayCircleOutlined';
+import AlipayCircleOutlinedSvg from '@buianhthang/icons-svg/lib/asn/AlipayCircleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface AlipayCircleOutlinedIconType extends FunctionalComponent<AntdIconProps> {

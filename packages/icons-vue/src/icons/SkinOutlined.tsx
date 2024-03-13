@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SkinOutlinedSvg from '@ant-design/icons-svg/lib/asn/SkinOutlined';
+import SkinOutlinedSvg from '@buianhthang/icons-svg/lib/asn/SkinOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SkinOutlinedIconType extends FunctionalComponent<AntdIconProps> {

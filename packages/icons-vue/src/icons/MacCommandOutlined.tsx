@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MacCommandOutlinedSvg from '@ant-design/icons-svg/lib/asn/MacCommandOutlined';
+import MacCommandOutlinedSvg from '@buianhthang/icons-svg/lib/asn/MacCommandOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MacCommandOutlinedIconType extends FunctionalComponent<AntdIconProps> {

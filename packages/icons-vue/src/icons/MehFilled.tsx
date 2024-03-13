@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MehFilledSvg from '@ant-design/icons-svg/lib/asn/MehFilled';
+import MehFilledSvg from '@buianhthang/icons-svg/lib/asn/MehFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MehFilledIconType extends FunctionalComponent<AntdIconProps> {

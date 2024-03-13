@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import GoldOutlinedSvg from '@ant-design/icons-svg/lib/asn/GoldOutlined';
+import GoldOutlinedSvg from '@buianhthang/icons-svg/lib/asn/GoldOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface GoldOutlinedIconType extends FunctionalComponent<AntdIconProps> {

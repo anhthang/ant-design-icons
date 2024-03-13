@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DiscordFilledSvg from '@ant-design/icons-svg/lib/asn/DiscordFilled';
+import DiscordFilledSvg from '@buianhthang/icons-svg/lib/asn/DiscordFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DiscordFilledIconType extends FunctionalComponent<AntdIconProps> {

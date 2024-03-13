@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BehanceSquareOutlinedSvg from '@ant-design/icons-svg/lib/asn/BehanceSquareOutlined';
+import BehanceSquareOutlinedSvg from '@buianhthang/icons-svg/lib/asn/BehanceSquareOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BehanceSquareOutlinedIconType extends FunctionalComponent<AntdIconProps> {

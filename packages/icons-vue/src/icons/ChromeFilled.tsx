@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ChromeFilledSvg from '@ant-design/icons-svg/lib/asn/ChromeFilled';
+import ChromeFilledSvg from '@buianhthang/icons-svg/lib/asn/ChromeFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ChromeFilledIconType extends FunctionalComponent<AntdIconProps> {

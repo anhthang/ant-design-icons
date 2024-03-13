@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ShopTwoToneSvg from '@ant-design/icons-svg/lib/asn/ShopTwoTone';
+import ShopTwoToneSvg from '@buianhthang/icons-svg/lib/asn/ShopTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ShopTwoToneIconType extends FunctionalComponent<AntdIconProps> {

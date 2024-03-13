@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import TwitterOutlinedSvg from '@ant-design/icons-svg/lib/asn/TwitterOutlined';
+import TwitterOutlinedSvg from '@buianhthang/icons-svg/lib/asn/TwitterOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface TwitterOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import AliyunOutlinedSvg from '@ant-design/icons-svg/lib/asn/AliyunOutlined';
+import AliyunOutlinedSvg from '@buianhthang/icons-svg/lib/asn/AliyunOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface AliyunOutlinedIconType extends FunctionalComponent<AntdIconProps> {

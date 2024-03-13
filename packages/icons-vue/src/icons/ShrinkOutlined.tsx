@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ShrinkOutlinedSvg from '@ant-design/icons-svg/lib/asn/ShrinkOutlined';
+import ShrinkOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ShrinkOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ShrinkOutlinedIconType extends FunctionalComponent<AntdIconProps> {

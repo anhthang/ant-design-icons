@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CopyrightTwoToneSvg from '@ant-design/icons-svg/lib/asn/CopyrightTwoTone';
+import CopyrightTwoToneSvg from '@buianhthang/icons-svg/lib/asn/CopyrightTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CopyrightTwoToneIconType extends FunctionalComponent<AntdIconProps> {

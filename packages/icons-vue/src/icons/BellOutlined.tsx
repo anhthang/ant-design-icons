@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BellOutlinedSvg from '@ant-design/icons-svg/lib/asn/BellOutlined';
+import BellOutlinedSvg from '@buianhthang/icons-svg/lib/asn/BellOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BellOutlinedIconType extends FunctionalComponent<AntdIconProps> {

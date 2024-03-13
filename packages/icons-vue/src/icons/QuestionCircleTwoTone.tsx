@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import QuestionCircleTwoToneSvg from '@ant-design/icons-svg/lib/asn/QuestionCircleTwoTone';
+import QuestionCircleTwoToneSvg from '@buianhthang/icons-svg/lib/asn/QuestionCircleTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface QuestionCircleTwoToneIconType extends FunctionalComponent<AntdIconProps> {

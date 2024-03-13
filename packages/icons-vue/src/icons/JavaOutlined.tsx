@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import JavaOutlinedSvg from '@ant-design/icons-svg/lib/asn/JavaOutlined';
+import JavaOutlinedSvg from '@buianhthang/icons-svg/lib/asn/JavaOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface JavaOutlinedIconType extends FunctionalComponent<AntdIconProps> {

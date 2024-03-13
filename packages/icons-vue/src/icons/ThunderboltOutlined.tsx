@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ThunderboltOutlinedSvg from '@ant-design/icons-svg/lib/asn/ThunderboltOutlined';
+import ThunderboltOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ThunderboltOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ThunderboltOutlinedIconType extends FunctionalComponent<AntdIconProps> {

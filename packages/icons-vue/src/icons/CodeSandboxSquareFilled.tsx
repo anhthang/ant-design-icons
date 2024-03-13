@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CodeSandboxSquareFilledSvg from '@ant-design/icons-svg/lib/asn/CodeSandboxSquareFilled';
+import CodeSandboxSquareFilledSvg from '@buianhthang/icons-svg/lib/asn/CodeSandboxSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CodeSandboxSquareFilledIconType extends FunctionalComponent<AntdIconProps> {

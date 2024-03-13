@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CopyOutlinedSvg from '@ant-design/icons-svg/lib/asn/CopyOutlined';
+import CopyOutlinedSvg from '@buianhthang/icons-svg/lib/asn/CopyOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CopyOutlinedIconType extends FunctionalComponent<AntdIconProps> {

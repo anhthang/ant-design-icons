@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MessageFilledSvg from '@ant-design/icons-svg/lib/asn/MessageFilled';
+import MessageFilledSvg from '@buianhthang/icons-svg/lib/asn/MessageFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MessageFilledIconType extends FunctionalComponent<AntdIconProps> {

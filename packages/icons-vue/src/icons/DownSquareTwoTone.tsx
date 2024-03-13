@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DownSquareTwoToneSvg from '@ant-design/icons-svg/lib/asn/DownSquareTwoTone';
+import DownSquareTwoToneSvg from '@buianhthang/icons-svg/lib/asn/DownSquareTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DownSquareTwoToneIconType extends FunctionalComponent<AntdIconProps> {

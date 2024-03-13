@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import AppstoreFilledSvg from '@ant-design/icons-svg/lib/asn/AppstoreFilled';
+import AppstoreFilledSvg from '@buianhthang/icons-svg/lib/asn/AppstoreFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface AppstoreFilledIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ThunderboltFilledSvg from '@ant-design/icons-svg/lib/asn/ThunderboltFilled';
+import ThunderboltFilledSvg from '@buianhthang/icons-svg/lib/asn/ThunderboltFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ThunderboltFilledIconType extends FunctionalComponent<AntdIconProps> {

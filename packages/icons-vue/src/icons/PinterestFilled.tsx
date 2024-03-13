@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import PinterestFilledSvg from '@ant-design/icons-svg/lib/asn/PinterestFilled';
+import PinterestFilledSvg from '@buianhthang/icons-svg/lib/asn/PinterestFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface PinterestFilledIconType extends FunctionalComponent<AntdIconProps> {

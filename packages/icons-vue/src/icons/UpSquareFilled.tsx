@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import UpSquareFilledSvg from '@ant-design/icons-svg/lib/asn/UpSquareFilled';
+import UpSquareFilledSvg from '@buianhthang/icons-svg/lib/asn/UpSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface UpSquareFilledIconType extends FunctionalComponent<AntdIconProps> {

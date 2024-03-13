@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BilibiliOutlinedSvg from '@ant-design/icons-svg/lib/asn/BilibiliOutlined';
+import BilibiliOutlinedSvg from '@buianhthang/icons-svg/lib/asn/BilibiliOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BilibiliOutlinedIconType extends FunctionalComponent<AntdIconProps> {

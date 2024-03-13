@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import UnorderedListOutlinedSvg from '@ant-design/icons-svg/lib/asn/UnorderedListOutlined';
+import UnorderedListOutlinedSvg from '@buianhthang/icons-svg/lib/asn/UnorderedListOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface UnorderedListOutlinedIconType extends FunctionalComponent<AntdIconProps> {

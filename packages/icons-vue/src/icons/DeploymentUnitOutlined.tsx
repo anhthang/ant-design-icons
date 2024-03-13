@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DeploymentUnitOutlinedSvg from '@ant-design/icons-svg/lib/asn/DeploymentUnitOutlined';
+import DeploymentUnitOutlinedSvg from '@buianhthang/icons-svg/lib/asn/DeploymentUnitOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DeploymentUnitOutlinedIconType extends FunctionalComponent<AntdIconProps> {

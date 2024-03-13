@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MoneyCollectOutlinedSvg from '@ant-design/icons-svg/lib/asn/MoneyCollectOutlined';
+import MoneyCollectOutlinedSvg from '@buianhthang/icons-svg/lib/asn/MoneyCollectOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MoneyCollectOutlinedIconType extends FunctionalComponent<AntdIconProps> {

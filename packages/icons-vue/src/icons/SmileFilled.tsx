@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SmileFilledSvg from '@ant-design/icons-svg/lib/asn/SmileFilled';
+import SmileFilledSvg from '@buianhthang/icons-svg/lib/asn/SmileFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SmileFilledIconType extends FunctionalComponent<AntdIconProps> {

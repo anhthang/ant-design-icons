@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import LaptopOutlinedSvg from '@ant-design/icons-svg/lib/asn/LaptopOutlined';
+import LaptopOutlinedSvg from '@buianhthang/icons-svg/lib/asn/LaptopOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface LaptopOutlinedIconType extends FunctionalComponent<AntdIconProps> {

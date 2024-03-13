@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ZhihuSquareFilledSvg from '@ant-design/icons-svg/lib/asn/ZhihuSquareFilled';
+import ZhihuSquareFilledSvg from '@buianhthang/icons-svg/lib/asn/ZhihuSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ZhihuSquareFilledIconType extends FunctionalComponent<AntdIconProps> {

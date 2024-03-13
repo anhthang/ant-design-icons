@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import EyeInvisibleFilledSvg from '@ant-design/icons-svg/lib/asn/EyeInvisibleFilled';
+import EyeInvisibleFilledSvg from '@buianhthang/icons-svg/lib/asn/EyeInvisibleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface EyeInvisibleFilledIconType extends FunctionalComponent<AntdIconProps> {

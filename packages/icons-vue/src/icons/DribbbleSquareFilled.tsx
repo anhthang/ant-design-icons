@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DribbbleSquareFilledSvg from '@ant-design/icons-svg/lib/asn/DribbbleSquareFilled';
+import DribbbleSquareFilledSvg from '@buianhthang/icons-svg/lib/asn/DribbbleSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DribbbleSquareFilledIconType extends FunctionalComponent<AntdIconProps> {

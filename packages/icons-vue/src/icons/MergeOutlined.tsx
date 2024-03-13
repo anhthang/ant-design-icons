@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MergeOutlinedSvg from '@ant-design/icons-svg/lib/asn/MergeOutlined';
+import MergeOutlinedSvg from '@buianhthang/icons-svg/lib/asn/MergeOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MergeOutlinedIconType extends FunctionalComponent<AntdIconProps> {

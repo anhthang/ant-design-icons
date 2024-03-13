@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import EnvironmentFilledSvg from '@ant-design/icons-svg/lib/asn/EnvironmentFilled';
+import EnvironmentFilledSvg from '@buianhthang/icons-svg/lib/asn/EnvironmentFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface EnvironmentFilledIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import PinterestOutlinedSvg from '@ant-design/icons-svg/lib/asn/PinterestOutlined';
+import PinterestOutlinedSvg from '@buianhthang/icons-svg/lib/asn/PinterestOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface PinterestOutlinedIconType extends FunctionalComponent<AntdIconProps> {

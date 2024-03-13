@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ForkOutlinedSvg from '@ant-design/icons-svg/lib/asn/ForkOutlined';
+import ForkOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ForkOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ForkOutlinedIconType extends FunctionalComponent<AntdIconProps> {

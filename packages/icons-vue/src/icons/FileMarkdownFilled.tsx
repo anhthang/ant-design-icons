@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FileMarkdownFilledSvg from '@ant-design/icons-svg/lib/asn/FileMarkdownFilled';
+import FileMarkdownFilledSvg from '@buianhthang/icons-svg/lib/asn/FileMarkdownFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FileMarkdownFilledIconType extends FunctionalComponent<AntdIconProps> {

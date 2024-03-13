@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import UngroupOutlinedSvg from '@ant-design/icons-svg/lib/asn/UngroupOutlined';
+import UngroupOutlinedSvg from '@buianhthang/icons-svg/lib/asn/UngroupOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface UngroupOutlinedIconType extends FunctionalComponent<AntdIconProps> {

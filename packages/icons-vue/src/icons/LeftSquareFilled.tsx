@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import LeftSquareFilledSvg from '@ant-design/icons-svg/lib/asn/LeftSquareFilled';
+import LeftSquareFilledSvg from '@buianhthang/icons-svg/lib/asn/LeftSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface LeftSquareFilledIconType extends FunctionalComponent<AntdIconProps> {

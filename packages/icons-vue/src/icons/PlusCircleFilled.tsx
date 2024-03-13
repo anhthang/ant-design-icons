@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import PlusCircleFilledSvg from '@ant-design/icons-svg/lib/asn/PlusCircleFilled';
+import PlusCircleFilledSvg from '@buianhthang/icons-svg/lib/asn/PlusCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface PlusCircleFilledIconType extends FunctionalComponent<AntdIconProps> {

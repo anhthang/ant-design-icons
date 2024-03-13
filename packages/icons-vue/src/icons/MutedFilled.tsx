@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MutedFilledSvg from '@ant-design/icons-svg/lib/asn/MutedFilled';
+import MutedFilledSvg from '@buianhthang/icons-svg/lib/asn/MutedFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MutedFilledIconType extends FunctionalComponent<AntdIconProps> {

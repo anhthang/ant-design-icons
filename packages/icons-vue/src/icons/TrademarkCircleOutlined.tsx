@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import TrademarkCircleOutlinedSvg from '@ant-design/icons-svg/lib/asn/TrademarkCircleOutlined';
+import TrademarkCircleOutlinedSvg from '@buianhthang/icons-svg/lib/asn/TrademarkCircleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface TrademarkCircleOutlinedIconType extends FunctionalComponent<AntdIconProps> {

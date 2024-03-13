@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BehanceSquareFilledSvg from '@ant-design/icons-svg/lib/asn/BehanceSquareFilled';
+import BehanceSquareFilledSvg from '@buianhthang/icons-svg/lib/asn/BehanceSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BehanceSquareFilledIconType extends FunctionalComponent<AntdIconProps> {

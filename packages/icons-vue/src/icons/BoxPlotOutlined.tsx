@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BoxPlotOutlinedSvg from '@ant-design/icons-svg/lib/asn/BoxPlotOutlined';
+import BoxPlotOutlinedSvg from '@buianhthang/icons-svg/lib/asn/BoxPlotOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BoxPlotOutlinedIconType extends FunctionalComponent<AntdIconProps> {

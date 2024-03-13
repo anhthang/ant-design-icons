@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DashboardFilledSvg from '@ant-design/icons-svg/lib/asn/DashboardFilled';
+import DashboardFilledSvg from '@buianhthang/icons-svg/lib/asn/DashboardFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DashboardFilledIconType extends FunctionalComponent<AntdIconProps> {

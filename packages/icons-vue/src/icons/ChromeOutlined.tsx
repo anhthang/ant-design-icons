@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ChromeOutlinedSvg from '@ant-design/icons-svg/lib/asn/ChromeOutlined';
+import ChromeOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ChromeOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ChromeOutlinedIconType extends FunctionalComponent<AntdIconProps> {

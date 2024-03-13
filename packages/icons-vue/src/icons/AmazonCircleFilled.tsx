@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import AmazonCircleFilledSvg from '@ant-design/icons-svg/lib/asn/AmazonCircleFilled';
+import AmazonCircleFilledSvg from '@buianhthang/icons-svg/lib/asn/AmazonCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface AmazonCircleFilledIconType extends FunctionalComponent<AntdIconProps> {

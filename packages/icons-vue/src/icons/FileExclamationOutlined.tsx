@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FileExclamationOutlinedSvg from '@ant-design/icons-svg/lib/asn/FileExclamationOutlined';
+import FileExclamationOutlinedSvg from '@buianhthang/icons-svg/lib/asn/FileExclamationOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FileExclamationOutlinedIconType extends FunctionalComponent<AntdIconProps> {

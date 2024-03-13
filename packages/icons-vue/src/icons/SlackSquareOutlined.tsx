@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SlackSquareOutlinedSvg from '@ant-design/icons-svg/lib/asn/SlackSquareOutlined';
+import SlackSquareOutlinedSvg from '@buianhthang/icons-svg/lib/asn/SlackSquareOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SlackSquareOutlinedIconType extends FunctionalComponent<AntdIconProps> {

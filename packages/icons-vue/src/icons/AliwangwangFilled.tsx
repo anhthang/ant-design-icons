@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import AliwangwangFilledSvg from '@ant-design/icons-svg/lib/asn/AliwangwangFilled';
+import AliwangwangFilledSvg from '@buianhthang/icons-svg/lib/asn/AliwangwangFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface AliwangwangFilledIconType extends FunctionalComponent<AntdIconProps> {

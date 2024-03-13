@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BorderlessTableOutlinedSvg from '@ant-design/icons-svg/lib/asn/BorderlessTableOutlined';
+import BorderlessTableOutlinedSvg from '@buianhthang/icons-svg/lib/asn/BorderlessTableOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BorderlessTableOutlinedIconType extends FunctionalComponent<AntdIconProps> {

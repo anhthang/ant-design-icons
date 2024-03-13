@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CopyFilledSvg from '@ant-design/icons-svg/lib/asn/CopyFilled';
+import CopyFilledSvg from '@buianhthang/icons-svg/lib/asn/CopyFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CopyFilledIconType extends FunctionalComponent<AntdIconProps> {

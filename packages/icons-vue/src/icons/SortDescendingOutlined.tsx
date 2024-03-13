@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SortDescendingOutlinedSvg from '@ant-design/icons-svg/lib/asn/SortDescendingOutlined';
+import SortDescendingOutlinedSvg from '@buianhthang/icons-svg/lib/asn/SortDescendingOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SortDescendingOutlinedIconType extends FunctionalComponent<AntdIconProps> {

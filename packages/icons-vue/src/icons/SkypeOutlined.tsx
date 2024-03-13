@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SkypeOutlinedSvg from '@ant-design/icons-svg/lib/asn/SkypeOutlined';
+import SkypeOutlinedSvg from '@buianhthang/icons-svg/lib/asn/SkypeOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SkypeOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import HeatMapOutlinedSvg from '@ant-design/icons-svg/lib/asn/HeatMapOutlined';
+import HeatMapOutlinedSvg from '@buianhthang/icons-svg/lib/asn/HeatMapOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface HeatMapOutlinedIconType extends FunctionalComponent<AntdIconProps> {

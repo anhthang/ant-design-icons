@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CarryOutOutlinedSvg from '@ant-design/icons-svg/lib/asn/CarryOutOutlined';
+import CarryOutOutlinedSvg from '@buianhthang/icons-svg/lib/asn/CarryOutOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CarryOutOutlinedIconType extends FunctionalComponent<AntdIconProps> {

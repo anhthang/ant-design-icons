@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ApartmentOutlinedSvg from '@ant-design/icons-svg/lib/asn/ApartmentOutlined';
+import ApartmentOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ApartmentOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ApartmentOutlinedIconType extends FunctionalComponent<AntdIconProps> {

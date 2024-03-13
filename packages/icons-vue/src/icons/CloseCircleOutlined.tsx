@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CloseCircleOutlinedSvg from '@ant-design/icons-svg/lib/asn/CloseCircleOutlined';
+import CloseCircleOutlinedSvg from '@buianhthang/icons-svg/lib/asn/CloseCircleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CloseCircleOutlinedIconType extends FunctionalComponent<AntdIconProps> {

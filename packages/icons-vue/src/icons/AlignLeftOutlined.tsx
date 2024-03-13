@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import AlignLeftOutlinedSvg from '@ant-design/icons-svg/lib/asn/AlignLeftOutlined';
+import AlignLeftOutlinedSvg from '@buianhthang/icons-svg/lib/asn/AlignLeftOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface AlignLeftOutlinedIconType extends FunctionalComponent<AntdIconProps> {

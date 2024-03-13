@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import EuroOutlinedSvg from '@ant-design/icons-svg/lib/asn/EuroOutlined';
+import EuroOutlinedSvg from '@buianhthang/icons-svg/lib/asn/EuroOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface EuroOutlinedIconType extends FunctionalComponent<AntdIconProps> {

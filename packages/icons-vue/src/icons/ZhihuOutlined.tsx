@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ZhihuOutlinedSvg from '@ant-design/icons-svg/lib/asn/ZhihuOutlined';
+import ZhihuOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ZhihuOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ZhihuOutlinedIconType extends FunctionalComponent<AntdIconProps> {

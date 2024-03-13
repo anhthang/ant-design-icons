@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CloseSquareOutlinedSvg from '@ant-design/icons-svg/lib/asn/CloseSquareOutlined';
+import CloseSquareOutlinedSvg from '@buianhthang/icons-svg/lib/asn/CloseSquareOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CloseSquareOutlinedIconType extends FunctionalComponent<AntdIconProps> {

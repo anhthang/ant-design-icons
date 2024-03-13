@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FlagOutlinedSvg from '@ant-design/icons-svg/lib/asn/FlagOutlined';
+import FlagOutlinedSvg from '@buianhthang/icons-svg/lib/asn/FlagOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FlagOutlinedIconType extends FunctionalComponent<AntdIconProps> {

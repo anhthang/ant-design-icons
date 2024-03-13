@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MedicineBoxTwoToneSvg from '@ant-design/icons-svg/lib/asn/MedicineBoxTwoTone';
+import MedicineBoxTwoToneSvg from '@buianhthang/icons-svg/lib/asn/MedicineBoxTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MedicineBoxTwoToneIconType extends FunctionalComponent<AntdIconProps> {

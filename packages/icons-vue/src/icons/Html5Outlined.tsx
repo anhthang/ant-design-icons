@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import Html5OutlinedSvg from '@ant-design/icons-svg/lib/asn/Html5Outlined';
+import Html5OutlinedSvg from '@buianhthang/icons-svg/lib/asn/Html5Outlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface Html5OutlinedIconType extends FunctionalComponent<AntdIconProps> {

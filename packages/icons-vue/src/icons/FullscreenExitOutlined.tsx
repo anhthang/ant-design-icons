@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FullscreenExitOutlinedSvg from '@ant-design/icons-svg/lib/asn/FullscreenExitOutlined';
+import FullscreenExitOutlinedSvg from '@buianhthang/icons-svg/lib/asn/FullscreenExitOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FullscreenExitOutlinedIconType extends FunctionalComponent<AntdIconProps> {

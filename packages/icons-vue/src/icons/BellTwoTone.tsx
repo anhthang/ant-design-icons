@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BellTwoToneSvg from '@ant-design/icons-svg/lib/asn/BellTwoTone';
+import BellTwoToneSvg from '@buianhthang/icons-svg/lib/asn/BellTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BellTwoToneIconType extends FunctionalComponent<AntdIconProps> {

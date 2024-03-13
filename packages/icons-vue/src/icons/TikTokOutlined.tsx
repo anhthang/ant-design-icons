@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import TikTokOutlinedSvg from '@ant-design/icons-svg/lib/asn/TikTokOutlined';
+import TikTokOutlinedSvg from '@buianhthang/icons-svg/lib/asn/TikTokOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface TikTokOutlinedIconType extends FunctionalComponent<AntdIconProps> {

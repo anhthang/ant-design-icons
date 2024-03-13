@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FolderAddTwoToneSvg from '@ant-design/icons-svg/lib/asn/FolderAddTwoTone';
+import FolderAddTwoToneSvg from '@buianhthang/icons-svg/lib/asn/FolderAddTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FolderAddTwoToneIconType extends FunctionalComponent<AntdIconProps> {

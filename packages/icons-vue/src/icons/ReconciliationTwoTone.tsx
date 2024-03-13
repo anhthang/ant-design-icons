@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ReconciliationTwoToneSvg from '@ant-design/icons-svg/lib/asn/ReconciliationTwoTone';
+import ReconciliationTwoToneSvg from '@buianhthang/icons-svg/lib/asn/ReconciliationTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ReconciliationTwoToneIconType extends FunctionalComponent<AntdIconProps> {

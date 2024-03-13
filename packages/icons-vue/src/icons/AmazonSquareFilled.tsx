@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import AmazonSquareFilledSvg from '@ant-design/icons-svg/lib/asn/AmazonSquareFilled';
+import AmazonSquareFilledSvg from '@buianhthang/icons-svg/lib/asn/AmazonSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface AmazonSquareFilledIconType extends FunctionalComponent<AntdIconProps> {

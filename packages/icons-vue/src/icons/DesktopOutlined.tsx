@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DesktopOutlinedSvg from '@ant-design/icons-svg/lib/asn/DesktopOutlined';
+import DesktopOutlinedSvg from '@buianhthang/icons-svg/lib/asn/DesktopOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DesktopOutlinedIconType extends FunctionalComponent<AntdIconProps> {

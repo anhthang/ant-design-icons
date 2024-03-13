@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CheckSquareFilledSvg from '@ant-design/icons-svg/lib/asn/CheckSquareFilled';
+import CheckSquareFilledSvg from '@buianhthang/icons-svg/lib/asn/CheckSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CheckSquareFilledIconType extends FunctionalComponent<AntdIconProps> {

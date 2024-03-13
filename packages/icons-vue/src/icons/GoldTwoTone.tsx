@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import GoldTwoToneSvg from '@ant-design/icons-svg/lib/asn/GoldTwoTone';
+import GoldTwoToneSvg from '@buianhthang/icons-svg/lib/asn/GoldTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface GoldTwoToneIconType extends FunctionalComponent<AntdIconProps> {

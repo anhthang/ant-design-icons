@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import OpenAIFilledSvg from '@ant-design/icons-svg/lib/asn/OpenAIFilled';
+import OpenAIFilledSvg from '@buianhthang/icons-svg/lib/asn/OpenAIFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface OpenAIFilledIconType extends FunctionalComponent<AntdIconProps> {

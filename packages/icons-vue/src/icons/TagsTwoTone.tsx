@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import TagsTwoToneSvg from '@ant-design/icons-svg/lib/asn/TagsTwoTone';
+import TagsTwoToneSvg from '@buianhthang/icons-svg/lib/asn/TagsTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface TagsTwoToneIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import YuqueFilledSvg from '@ant-design/icons-svg/lib/asn/YuqueFilled';
+import YuqueFilledSvg from '@buianhthang/icons-svg/lib/asn/YuqueFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface YuqueFilledIconType extends FunctionalComponent<AntdIconProps> {

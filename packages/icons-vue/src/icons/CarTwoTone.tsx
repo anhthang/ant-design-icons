@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CarTwoToneSvg from '@ant-design/icons-svg/lib/asn/CarTwoTone';
+import CarTwoToneSvg from '@buianhthang/icons-svg/lib/asn/CarTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CarTwoToneIconType extends FunctionalComponent<AntdIconProps> {

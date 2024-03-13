@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SnippetsFilledSvg from '@ant-design/icons-svg/lib/asn/SnippetsFilled';
+import SnippetsFilledSvg from '@buianhthang/icons-svg/lib/asn/SnippetsFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SnippetsFilledIconType extends FunctionalComponent<AntdIconProps> {

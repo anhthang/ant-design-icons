@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import LeftCircleTwoToneSvg from '@ant-design/icons-svg/lib/asn/LeftCircleTwoTone';
+import LeftCircleTwoToneSvg from '@buianhthang/icons-svg/lib/asn/LeftCircleTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface LeftCircleTwoToneIconType extends FunctionalComponent<AntdIconProps> {

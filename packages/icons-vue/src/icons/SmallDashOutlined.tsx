@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SmallDashOutlinedSvg from '@ant-design/icons-svg/lib/asn/SmallDashOutlined';
+import SmallDashOutlinedSvg from '@buianhthang/icons-svg/lib/asn/SmallDashOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SmallDashOutlinedIconType extends FunctionalComponent<AntdIconProps> {

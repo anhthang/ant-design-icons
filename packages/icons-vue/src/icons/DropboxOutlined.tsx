@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DropboxOutlinedSvg from '@ant-design/icons-svg/lib/asn/DropboxOutlined';
+import DropboxOutlinedSvg from '@buianhthang/icons-svg/lib/asn/DropboxOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DropboxOutlinedIconType extends FunctionalComponent<AntdIconProps> {

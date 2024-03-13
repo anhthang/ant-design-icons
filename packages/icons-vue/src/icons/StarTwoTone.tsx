@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import StarTwoToneSvg from '@ant-design/icons-svg/lib/asn/StarTwoTone';
+import StarTwoToneSvg from '@buianhthang/icons-svg/lib/asn/StarTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface StarTwoToneIconType extends FunctionalComponent<AntdIconProps> {

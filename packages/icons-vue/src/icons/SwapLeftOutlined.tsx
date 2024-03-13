@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SwapLeftOutlinedSvg from '@ant-design/icons-svg/lib/asn/SwapLeftOutlined';
+import SwapLeftOutlinedSvg from '@buianhthang/icons-svg/lib/asn/SwapLeftOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SwapLeftOutlinedIconType extends FunctionalComponent<AntdIconProps> {

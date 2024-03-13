@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MehTwoToneSvg from '@ant-design/icons-svg/lib/asn/MehTwoTone';
+import MehTwoToneSvg from '@buianhthang/icons-svg/lib/asn/MehTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MehTwoToneIconType extends FunctionalComponent<AntdIconProps> {

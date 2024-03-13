@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SignatureOutlinedSvg from '@ant-design/icons-svg/lib/asn/SignatureOutlined';
+import SignatureOutlinedSvg from '@buianhthang/icons-svg/lib/asn/SignatureOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SignatureOutlinedIconType extends FunctionalComponent<AntdIconProps> {

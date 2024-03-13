@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ShareAltOutlinedSvg from '@ant-design/icons-svg/lib/asn/ShareAltOutlined';
+import ShareAltOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ShareAltOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ShareAltOutlinedIconType extends FunctionalComponent<AntdIconProps> {

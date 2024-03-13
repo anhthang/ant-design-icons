@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import LinkedinOutlinedSvg from '@ant-design/icons-svg/lib/asn/LinkedinOutlined';
+import LinkedinOutlinedSvg from '@buianhthang/icons-svg/lib/asn/LinkedinOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface LinkedinOutlinedIconType extends FunctionalComponent<AntdIconProps> {

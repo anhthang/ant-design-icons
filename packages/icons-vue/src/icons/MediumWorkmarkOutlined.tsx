@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MediumWorkmarkOutlinedSvg from '@ant-design/icons-svg/lib/asn/MediumWorkmarkOutlined';
+import MediumWorkmarkOutlinedSvg from '@buianhthang/icons-svg/lib/asn/MediumWorkmarkOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MediumWorkmarkOutlinedIconType extends FunctionalComponent<AntdIconProps> {

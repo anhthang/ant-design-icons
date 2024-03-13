@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import HarmonyOSOutlinedSvg from '@ant-design/icons-svg/lib/asn/HarmonyOSOutlined';
+import HarmonyOSOutlinedSvg from '@buianhthang/icons-svg/lib/asn/HarmonyOSOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface HarmonyOSOutlinedIconType extends FunctionalComponent<AntdIconProps> {

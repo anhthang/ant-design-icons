@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BugFilledSvg from '@ant-design/icons-svg/lib/asn/BugFilled';
+import BugFilledSvg from '@buianhthang/icons-svg/lib/asn/BugFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BugFilledIconType extends FunctionalComponent<AntdIconProps> {

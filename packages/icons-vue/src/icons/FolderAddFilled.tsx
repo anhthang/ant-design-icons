@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FolderAddFilledSvg from '@ant-design/icons-svg/lib/asn/FolderAddFilled';
+import FolderAddFilledSvg from '@buianhthang/icons-svg/lib/asn/FolderAddFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FolderAddFilledIconType extends FunctionalComponent<AntdIconProps> {

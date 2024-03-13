@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import ClusterOutlinedSvg from '@ant-design/icons-svg/lib/asn/ClusterOutlined';
+import ClusterOutlinedSvg from '@buianhthang/icons-svg/lib/asn/ClusterOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface ClusterOutlinedIconType extends FunctionalComponent<AntdIconProps> {

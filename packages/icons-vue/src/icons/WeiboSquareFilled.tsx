@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import WeiboSquareFilledSvg from '@ant-design/icons-svg/lib/asn/WeiboSquareFilled';
+import WeiboSquareFilledSvg from '@buianhthang/icons-svg/lib/asn/WeiboSquareFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface WeiboSquareFilledIconType extends FunctionalComponent<AntdIconProps> {

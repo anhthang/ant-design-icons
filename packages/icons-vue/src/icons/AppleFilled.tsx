@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import AppleFilledSvg from '@ant-design/icons-svg/lib/asn/AppleFilled';
+import AppleFilledSvg from '@buianhthang/icons-svg/lib/asn/AppleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface AppleFilledIconType extends FunctionalComponent<AntdIconProps> {

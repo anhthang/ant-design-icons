@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import Html5TwoToneSvg from '@ant-design/icons-svg/lib/asn/Html5TwoTone';
+import Html5TwoToneSvg from '@buianhthang/icons-svg/lib/asn/Html5TwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface Html5TwoToneIconType extends FunctionalComponent<AntdIconProps> {

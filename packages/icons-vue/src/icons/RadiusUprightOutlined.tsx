@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import RadiusUprightOutlinedSvg from '@ant-design/icons-svg/lib/asn/RadiusUprightOutlined';
+import RadiusUprightOutlinedSvg from '@buianhthang/icons-svg/lib/asn/RadiusUprightOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface RadiusUprightOutlinedIconType extends FunctionalComponent<AntdIconProps> {

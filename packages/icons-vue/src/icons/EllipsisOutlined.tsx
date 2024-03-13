@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import EllipsisOutlinedSvg from '@ant-design/icons-svg/lib/asn/EllipsisOutlined';
+import EllipsisOutlinedSvg from '@buianhthang/icons-svg/lib/asn/EllipsisOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface EllipsisOutlinedIconType extends FunctionalComponent<AntdIconProps> {

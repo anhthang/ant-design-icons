@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import TikTokFilledSvg from '@ant-design/icons-svg/lib/asn/TikTokFilled';
+import TikTokFilledSvg from '@buianhthang/icons-svg/lib/asn/TikTokFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface TikTokFilledIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BackwardFilledSvg from '@ant-design/icons-svg/lib/asn/BackwardFilled';
+import BackwardFilledSvg from '@buianhthang/icons-svg/lib/asn/BackwardFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BackwardFilledIconType extends FunctionalComponent<AntdIconProps> {

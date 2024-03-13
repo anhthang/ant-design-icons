@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import MenuUnfoldOutlinedSvg from '@ant-design/icons-svg/lib/asn/MenuUnfoldOutlined';
+import MenuUnfoldOutlinedSvg from '@buianhthang/icons-svg/lib/asn/MenuUnfoldOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface MenuUnfoldOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CreditCardOutlinedSvg from '@ant-design/icons-svg/lib/asn/CreditCardOutlined';
+import CreditCardOutlinedSvg from '@buianhthang/icons-svg/lib/asn/CreditCardOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CreditCardOutlinedIconType extends FunctionalComponent<AntdIconProps> {

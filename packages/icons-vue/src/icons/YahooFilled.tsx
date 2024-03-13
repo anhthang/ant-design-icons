@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import YahooFilledSvg from '@ant-design/icons-svg/lib/asn/YahooFilled';
+import YahooFilledSvg from '@buianhthang/icons-svg/lib/asn/YahooFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface YahooFilledIconType extends FunctionalComponent<AntdIconProps> {

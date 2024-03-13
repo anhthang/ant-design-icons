@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import GitlabOutlinedSvg from '@ant-design/icons-svg/lib/asn/GitlabOutlined';
+import GitlabOutlinedSvg from '@buianhthang/icons-svg/lib/asn/GitlabOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface GitlabOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import SnippetsTwoToneSvg from '@ant-design/icons-svg/lib/asn/SnippetsTwoTone';
+import SnippetsTwoToneSvg from '@buianhthang/icons-svg/lib/asn/SnippetsTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface SnippetsTwoToneIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FastForwardFilledSvg from '@ant-design/icons-svg/lib/asn/FastForwardFilled';
+import FastForwardFilledSvg from '@buianhthang/icons-svg/lib/asn/FastForwardFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FastForwardFilledIconType extends FunctionalComponent<AntdIconProps> {

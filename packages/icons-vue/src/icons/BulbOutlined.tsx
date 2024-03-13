@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BulbOutlinedSvg from '@ant-design/icons-svg/lib/asn/BulbOutlined';
+import BulbOutlinedSvg from '@buianhthang/icons-svg/lib/asn/BulbOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BulbOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DatabaseTwoToneSvg from '@ant-design/icons-svg/lib/asn/DatabaseTwoTone';
+import DatabaseTwoToneSvg from '@buianhthang/icons-svg/lib/asn/DatabaseTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DatabaseTwoToneIconType extends FunctionalComponent<AntdIconProps> {

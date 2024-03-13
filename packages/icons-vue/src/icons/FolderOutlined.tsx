@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FolderOutlinedSvg from '@ant-design/icons-svg/lib/asn/FolderOutlined';
+import FolderOutlinedSvg from '@buianhthang/icons-svg/lib/asn/FolderOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FolderOutlinedIconType extends FunctionalComponent<AntdIconProps> {

@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FormatPainterOutlinedSvg from '@ant-design/icons-svg/lib/asn/FormatPainterOutlined';
+import FormatPainterOutlinedSvg from '@buianhthang/icons-svg/lib/asn/FormatPainterOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FormatPainterOutlinedIconType extends FunctionalComponent<AntdIconProps> {

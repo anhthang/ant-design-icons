@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import WindowsOutlinedSvg from '@ant-design/icons-svg/lib/asn/WindowsOutlined';
+import WindowsOutlinedSvg from '@buianhthang/icons-svg/lib/asn/WindowsOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface WindowsOutlinedIconType extends FunctionalComponent<AntdIconProps> {

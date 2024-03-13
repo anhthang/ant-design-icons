@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import BehanceCircleFilledSvg from '@ant-design/icons-svg/lib/asn/BehanceCircleFilled';
+import BehanceCircleFilledSvg from '@buianhthang/icons-svg/lib/asn/BehanceCircleFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface BehanceCircleFilledIconType extends FunctionalComponent<AntdIconProps> {

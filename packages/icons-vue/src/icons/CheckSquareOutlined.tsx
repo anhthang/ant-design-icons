@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import CheckSquareOutlinedSvg from '@ant-design/icons-svg/lib/asn/CheckSquareOutlined';
+import CheckSquareOutlinedSvg from '@buianhthang/icons-svg/lib/asn/CheckSquareOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface CheckSquareOutlinedIconType extends FunctionalComponent<AntdIconProps> {

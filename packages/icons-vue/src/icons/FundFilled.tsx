@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import FundFilledSvg from '@ant-design/icons-svg/lib/asn/FundFilled';
+import FundFilledSvg from '@buianhthang/icons-svg/lib/asn/FundFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface FundFilledIconType extends FunctionalComponent<AntdIconProps> {

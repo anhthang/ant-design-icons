@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DatabaseFilledSvg from '@ant-design/icons-svg/lib/asn/DatabaseFilled';
+import DatabaseFilledSvg from '@buianhthang/icons-svg/lib/asn/DatabaseFilled';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DatabaseFilledIconType extends FunctionalComponent<AntdIconProps> {

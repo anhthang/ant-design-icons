@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import DashboardTwoToneSvg from '@ant-design/icons-svg/lib/asn/DashboardTwoTone';
+import DashboardTwoToneSvg from '@buianhthang/icons-svg/lib/asn/DashboardTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface DashboardTwoToneIconType extends FunctionalComponent<AntdIconProps> {

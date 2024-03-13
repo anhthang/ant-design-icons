@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import RedEnvelopeTwoToneSvg from '@ant-design/icons-svg/lib/asn/RedEnvelopeTwoTone';
+import RedEnvelopeTwoToneSvg from '@buianhthang/icons-svg/lib/asn/RedEnvelopeTwoTone';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface RedEnvelopeTwoToneIconType extends FunctionalComponent<AntdIconProps> {

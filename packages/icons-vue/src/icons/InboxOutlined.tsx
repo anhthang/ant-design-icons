@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import InboxOutlinedSvg from '@ant-design/icons-svg/lib/asn/InboxOutlined';
+import InboxOutlinedSvg from '@buianhthang/icons-svg/lib/asn/InboxOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface InboxOutlinedIconType extends FunctionalComponent<AntdIconProps> {

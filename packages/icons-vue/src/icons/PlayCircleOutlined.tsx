@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import PlayCircleOutlinedSvg from '@ant-design/icons-svg/lib/asn/PlayCircleOutlined';
+import PlayCircleOutlinedSvg from '@buianhthang/icons-svg/lib/asn/PlayCircleOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface PlayCircleOutlinedIconType extends FunctionalComponent<AntdIconProps> {

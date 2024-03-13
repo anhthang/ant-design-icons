@@ -2,7 +2,7 @@
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import PicCenterOutlinedSvg from '@ant-design/icons-svg/lib/asn/PicCenterOutlined';
+import PicCenterOutlinedSvg from '@buianhthang/icons-svg/lib/asn/PicCenterOutlined';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface PicCenterOutlinedIconType extends FunctionalComponent<AntdIconProps> {
