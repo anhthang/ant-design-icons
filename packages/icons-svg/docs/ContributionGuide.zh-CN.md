@@ -1,6 +1,6 @@
 # 贡献指南
 
-`@ant-design/icons-svg` 是 Ant Design 官方所推出的语义化矢量图形库。该库提供了描述图标的抽象节点（Abstract Node, ASN）来满足各种框架的基本适配。
+`@buianhthang/icons-svg` 是 Ant Design 官方所推出的语义化矢量图形库。该库提供了描述图标的抽象节点（Abstract Node, ASN）来满足各种框架的基本适配。
 
 ## 目录结构
 

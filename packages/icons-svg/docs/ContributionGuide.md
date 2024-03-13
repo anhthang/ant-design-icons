@@ -1,6 +1,6 @@
 # Contribution Guide
 
-`@ant-design/icons-svg` is an SVG library recommended by Ant Design official team. It offers the abstract node (essentially a plain object) to be consumed by various UI libraries or framworks.
+`@buianhthang/icons-svg` is an SVG library recommended by Ant Design official team. It offers the abstract node (essentially a plain object) to be consumed by various UI libraries or framworks.
 
 ## Project structure
 

@@ -39,6 +39,7 @@ arrow-left-outlined
 arrow-right-outlined
 arrow-up-outlined
 arrows-alt-outlined
+artisan-collector-outlined
 audio-filled
 audio-muted-outlined
 audio-outlined

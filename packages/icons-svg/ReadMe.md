@@ -8,21 +8,21 @@ Ant Design Icons
 
 <div align="center">
 
-[![NPM version](https://img.shields.io/npm/v/@ant-design/icons-svg.svg?style=flat)](https://npmjs.org/package/@ant-design/icons-svg)
-[![NPM downloads](http://img.shields.io/npm/dm/@ant-design/icons-svg.svg?style=flat)](https://npmjs.org/package/@ant-design/icons-svg)
+[![NPM version](https://img.shields.io/npm/v/@buianhthang/icons-svg.svg?style=flat)](https://npmjs.org/package/@buianhthang/icons-svg)
+[![NPM downloads](http://img.shields.io/npm/dm/@buianhthang/icons-svg.svg?style=flat)](https://npmjs.org/package/@buianhthang/icons-svg)
 
 </div>
 
-Check [all icons list](https://github.com/ant-design/ant-design-icons/issues/227).
+Check [all icons list](https://github.com/anhthang/ant-design-icons/issues/227).
 
 ## Install
 
 ```bash
 # use yarn
-$ yarn add @ant-design/icons-svg
+$ yarn add @buianhthang/icons-svg
 
 # or use npm
-$ npm install @ant-design/icons-svg --save
+$ npm install @buianhthang/icons-svg --save
 ```
 
 ## Use Library Adapter
@@ -36,9 +36,9 @@ See contribution guide. [English](./docs/ContributionGuide.md) ｜ [中文](./do
 ## Get started
 
 ```ts
-import { AccountBookOutlined } from '@ant-design/icons-svg';
+import { AccountBookOutlined } from '@buianhthang/icons-svg';
 // or
-// import AccountBookOutlined from '@ant-design/icons-svg/es/asn/AccountBookOutlined';
+// import AccountBookOutlined from '@buianhthang/icons-svg/es/asn/AccountBookOutlined';
 
 console.log(AccountBookOutlined);
 // ==>
@@ -92,8 +92,8 @@ export interface IconDefinition {
 ## Render Helpers
 
 ```ts
-import { AccountBookFilled } from '@ant-design/icons-svg';
-import { renderIconDefinitionToSVGElement } from '@ant-design/icons-svg/es/helpers';
+import { AccountBookFilled } from '@buianhthang/icons-svg';
+import { renderIconDefinitionToSVGElement } from '@buianhthang/icons-svg/es/helpers';
 
 const svgHTMLString = renderIconDefinitionToSVGElement(AccountBookFilled, {
   extraSVGAttrs: { width: '1em', height: '1em', fill: 'currentColor' }
