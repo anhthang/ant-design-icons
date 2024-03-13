@@ -1,5 +1,5 @@
 import { generate, getSecondaryColor, isIconDefinition, warning } from '../utils';
-import { AbstractNode, IconDefinition } from '@ant-design/icons-svg/lib/types';
+import { AbstractNode, IconDefinition } from '@buianhthang/icons-svg/lib/types';
 import { CSSProperties, FunctionalComponent, PropType, reactive } from 'vue';
 
 export interface IconProps {

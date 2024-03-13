@@ -1,5 +1,5 @@
 const { camelCase, upperFirst } = require('lodash');
-const manifest = require('@ant-design/icons-svg/lib/manifest').default;
+const manifest = require('@buianhthang/icons-svg/lib/manifest').default;
 
 const themeMap = {
   fill: 'filled',

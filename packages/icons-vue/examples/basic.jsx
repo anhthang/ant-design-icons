@@ -1,7 +1,7 @@
 import { createApp } from 'vue';
 import { HomeOutlined, SettingFilled, SyncOutlined, SmileOutlined, LoadingOutlined } from '../src';
 import Icon, { FilterOutlined } from '../src';
-import { AntDesignOutlined } from '@ant-design/icons-svg';
+import { AntDesignOutlined } from '@buianhthangicons-svg';
 import IconBase from '../src/components/IconBase';
 
 const SimpleDemo = {

@@ -71,7 +71,7 @@
   },
   "dependencies": {
     "@ant-design/colors": "^7.0.0",
-    "@ant-design/icons-svg": "^4.4.0"
+    "@buianhthang/icons-svg": "^4.5.1"
   },
   "config": {
     "port": 9528,

@@ -1,5 +1,5 @@
 import { nextTick, h, getCurrentInstance } from 'vue';
-import { AbstractNode, IconDefinition } from '@ant-design/icons-svg/lib/types';
+import { AbstractNode, IconDefinition } from '@buianhthang/icons-svg/lib/types';
 import { generate as generateColor } from '@ant-design/colors';
 import { useInjectIconContext } from './components/Context';
 import { updateCSS, canUseDom } from './dynamicCSS';

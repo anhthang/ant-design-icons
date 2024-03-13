@@ -1,5 +1,5 @@
-import * as allIconDefs from '@ant-design/icons-svg';
-import { IconDefinition } from '@ant-design/icons-svg/es/types';
+import * as allIconDefs from '@buianhthang/icons-svg';
+import { IconDefinition } from '@buianhthang/icons-svg/es/types';
 import * as path from 'path';
 import * as fs from 'fs';
 import { promisify } from 'util';
@@ -35,7 +35,7 @@ async function generateIcons() {
 // DON NOT EDIT IT MANUALLY
 
 import { FunctionalComponent } from 'vue';
-import <%= svgIdentifier %>Svg from '@ant-design/icons-svg/lib/asn/<%= svgIdentifier %>';
+import <%= svgIdentifier %>Svg from '@buianhthang/icons-svg/lib/asn/<%= svgIdentifier %>';
 import AntdIcon, { AntdIconProps } from '../components/AntdIcon';
 
 export interface <%= svgIdentifier %>IconType extends FunctionalComponent<AntdIconProps> {

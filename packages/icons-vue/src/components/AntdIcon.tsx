@@ -1,6 +1,6 @@
 import VueIcon from './IconBase';
 import { IconBaseProps } from './Icon';
-import { IconDefinition } from '@ant-design/icons-svg/lib/types';
+import { IconDefinition } from '@buianhthang/icons-svg/lib/types';
 import { getTwoToneColor, TwoToneColor, setTwoToneColor } from './twoTonePrimaryColor';
 import { normalizeTwoToneColors } from '../utils';
 import { FunctionalComponent, PropType } from 'vue';
